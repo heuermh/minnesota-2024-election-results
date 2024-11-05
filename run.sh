@@ -35,5 +35,5 @@ wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/allracesbyco
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/allracesbyprecinct.txt
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/pctstats.txt
 
-#TIMESTAMP=`date`
-#git commit -a -m "Update at $TIMESTAMP"
+TIMESTAMP=`date`
+git commit -a -m "Update at $TIMESTAMP"
