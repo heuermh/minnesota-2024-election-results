@@ -1,0 +1,114 @@
+MN;27;0675;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;0675;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;0675;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;0680;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;0680;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;0680;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;0965;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;0965;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;0965;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;1065;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;1065;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;1065;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;1160;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;1160;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;1160;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2110;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2110;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2110;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2115;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2115;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2115;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2120;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2120;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2120;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2125;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2125;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2125;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2130;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2130;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2130;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2135;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2135;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2135;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2140;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2140;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2140;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2145;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2145;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2145;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2150;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2150;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2150;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2155;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2155;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2155;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2160;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2160;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2160;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2165;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2165;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2165;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2185;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2185;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2185;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2230;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2230;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2230;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2240;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2240;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2240;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2245;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2245;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2245;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2250;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2250;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2250;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2255;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2255;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2255;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2260;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2260;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2260;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2265;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2265;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2265;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2270;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2270;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2270;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2275;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2275;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2275;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2355;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2355;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2355;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2360;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2360;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2360;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2365;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2365;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2365;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2725;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2725;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2725;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2730;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2730;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2730;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2735;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2735;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2735;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2755;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2755;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2755;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2780;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2780;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2780;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2900;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2900;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2900;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2910;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2910;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2910;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;27;2925;0165;State Senator District 45;45;0201;Ann Johnson Stewart;;;DFL;0;1;0;0.00;0
+MN;27;2925;0165;State Senator District 45;45;0102;Kathleen Fowke;;;R;0;1;0;0.00;0
+MN;27;2925;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;1;0;0.00;0

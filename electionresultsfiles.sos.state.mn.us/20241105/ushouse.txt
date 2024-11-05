@@ -1,0 +1,25 @@
+MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;0;749;0;0.00;0
+MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;0;749;0;0.00;0
+MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;749;0;0.00;0
+MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;0;258;0;0.00;0
+MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;0;258;0;0.00;0
+MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;0;258;0;0.00;0
+MN;;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;258;0;0.00;0
+MN;;;0106;U.S. Representative District 3;3;0201;Kelly Morrison;;;DFL;0;230;0;0.00;0
+MN;;;0106;U.S. Representative District 3;3;0102;Tad Jude;;;R;0;230;0;0.00;0
+MN;;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;230;0;0.00;0
+MN;;;0107;U.S. Representative District 4;4;0101;May Lor Xiong;;;R;0;212;0;0.00;0
+MN;;;0107;U.S. Representative District 4;4;0202;Betty McCollum;;;DFL;0;212;0;0.00;0
+MN;;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;212;0;0.00;0
+MN;;;0108;U.S. Representative District 5;5;0101;Dalia Al-Aqidi;;;R;0;217;0;0.00;0
+MN;;;0108;U.S. Representative District 5;5;0202;Ilhan Omar;;;DFL;0;217;0;0.00;0
+MN;;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;217;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;0;274;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;0;274;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;274;0;0.00;0
+MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;0;1329;0;0.00;0
+MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;0;1329;0;0.00;0
+MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;0;834;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;0;834;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;834;0;0.00;0
