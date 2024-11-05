@@ -1,0 +1,1 @@
+# minnesota-2024-election-results
