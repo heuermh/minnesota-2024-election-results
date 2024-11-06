@@ -36,9 +36,9 @@ MN;;;0199;State Representative District 6B;6B;0101;Josh Heintzeman;;;R;25;25;157
 MN;;;0199;State Representative District 6B;6B;0202;Emily LeClaire;;;DFL;25;25;8209;33.06;24833
 MN;;;0199;State Representative District 6B;6B;1003;Troy Kenneth Scheffler;;;AF;25;25;848;3.41;24833
 MN;;;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;25;25;32;0.13;24833
-MN;;;0200;State Representative District 7A;7A;0201;Aron Schnaser;;;DFL;69;70;9366;39.71;23585
-MN;;;0200;State Representative District 7A;7A;0102;Spencer Igo;;;R;69;70;14196;60.19;23585
-MN;;;0200;State Representative District 7A;7A;9901;WRITE-IN;;;WI;69;70;23;0.10;23585
+MN;;;0200;State Representative District 7A;7A;0201;Aron Schnaser;;;DFL;70;70;9435;39.71;23758
+MN;;;0200;State Representative District 7A;7A;0102;Spencer Igo;;;R;70;70;14300;60.19;23758
+MN;;;0200;State Representative District 7A;7A;9901;WRITE-IN;;;WI;70;70;23;0.10;23758
 MN;;;0201;State Representative District 7B;7B;0101;Cal Warwas;;;R;57;57;13781;56.34;24459
 MN;;;0201;State Representative District 7B;7B;0202;Lorrie Janatopoulos;;;DFL;57;57;10655;43.56;24459
 MN;;;0201;State Representative District 7B;7B;9901;WRITE-IN;;;WI;57;57;23;0.09;24459
@@ -102,9 +102,9 @@ MN;;;0220;State Representative District 17A;17A;9901;WRITE-IN;;;WI;36;36;24;0.10
 MN;;;0221;State Representative District 17B;17B;0201;Jennifer Nuesse;;;DFL;40;40;7431;29.87;24881
 MN;;;0221;State Representative District 17B;17B;0102;Bobbie Harder;;;R;40;40;17425;70.03;24881
 MN;;;0221;State Representative District 17B;17B;9901;WRITE-IN;;;WI;40;40;25;0.10;24881
-MN;;;0222;State Representative District 18A;18A;0201;Jeff Brand;;;DFL;35;35;11482;48.23;23805
-MN;;;0222;State Representative District 18A;18A;0102;Erica Schwartz;;;R;35;35;12281;51.59;23805
-MN;;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;35;35;42;0.18;23805
+MN;;;0222;State Representative District 18A;18A;0201;Jeff Brand;;;DFL;35;35;11482;48.23;23806
+MN;;;0222;State Representative District 18A;18A;0102;Erica Schwartz;;;R;35;35;12282;51.59;23806
+MN;;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;35;35;42;0.18;23806
 MN;;;0223;State Representative District 18B;18B;0101;Dar Vosburg;;;R;18;18;8650;44.18;19577
 MN;;;0223;State Representative District 18B;18B;0202;Luke Frederick;;;DFL;18;18;10892;55.64;19577
 MN;;;0223;State Representative District 18B;18B;9901;WRITE-IN;;;WI;18;18;35;0.18;19577
@@ -129,9 +129,9 @@ MN;;;0229;State Representative District 21B;21B;9901;WRITE-IN;;;WI;83;83;12;0.07
 MN;;;0230;State Representative District 22A;22A;0101;Bjorn Olson;;;R;75;75;15700;69.42;22617
 MN;;;0230;State Representative District 22A;22A;0202;Marisa Ulmen;;;DFL;75;75;6896;30.49;22617
 MN;;;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;75;75;21;0.09;22617
-MN;;;0231;State Representative District 22B;22B;0201;Sara Nett-Torgrimson;;;DFL;35;35;7741;31.20;24810
-MN;;;0231;State Representative District 22B;22B;0102;Terry M. Stier;;;R;35;35;17053;68.73;24810
-MN;;;0231;State Representative District 22B;22B;9901;WRITE-IN;;;WI;35;35;16;0.06;24810
+MN;;;0231;State Representative District 22B;22B;0201;Sara Nett-Torgrimson;;;DFL;35;35;7740;31.20;24809
+MN;;;0231;State Representative District 22B;22B;0102;Terry M. Stier;;;R;35;35;17053;68.74;24809
+MN;;;0231;State Representative District 22B;22B;9901;WRITE-IN;;;WI;35;35;16;0.06;24809
 MN;;;0232;State Representative District 23A;23A;0201;Joe Staloch;;;DFL;70;70;7379;32.14;22959
 MN;;;0232;State Representative District 23A;23A;0102;Peggy Bennett;;;R;70;70;15554;67.75;22959
 MN;;;0232;State Representative District 23A;23A;9901;WRITE-IN;;;WI;70;70;26;0.11;22959
@@ -156,9 +156,9 @@ MN;;;0238;State Representative District 26A;26A;9901;WRITE-IN;;;WI;38;38;52;0.22
 MN;;;0239;State Representative District 26B;26B;0101;Gregory M. Davids;;;R;70;70;14946;64.00;23353
 MN;;;0239;State Representative District 26B;26B;0202;Allie Wolf;;;DFL;70;70;8352;35.76;23353
 MN;;;0239;State Representative District 26B;26B;9901;WRITE-IN;;;WI;70;70;55;0.24;23353
-MN;;;0240;State Representative District 27A;27A;0201;Kathryn A. Geary;;;DFL;13;14;5224;26.99;19353
-MN;;;0240;State Representative District 27A;27A;0102;Shane Mekeland;;;R;13;14;14058;72.64;19353
-MN;;;0240;State Representative District 27A;27A;9901;WRITE-IN;;;WI;13;14;71;0.37;19353
+MN;;;0240;State Representative District 27A;27A;0201;Kathryn A. Geary;;;DFL;14;14;5826;26.02;22394
+MN;;;0240;State Representative District 27A;27A;0102;Shane Mekeland;;;R;14;14;16485;73.61;22394
+MN;;;0240;State Representative District 27A;27A;9901;WRITE-IN;;;WI;14;14;83;0.37;22394
 MN;;;0241;State Representative District 27B;27B;0101;Bryan Lawrence;;;R;18;18;17587;75.09;23421
 MN;;;0241;State Representative District 27B;27B;0202;Andrew Scouten;;;DFL;18;18;5780;24.68;23421
 MN;;;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;18;18;54;0.23;23421
