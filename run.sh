@@ -11,7 +11,6 @@
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/USHouseCty.txt
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/LegislativeByDistrict.txt
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/allracesbycounty.txt
-/opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/pctstats.txt
 
 TIMESTAMP=`date`
 git commit -a -m "Update at $TIMESTAMP"
