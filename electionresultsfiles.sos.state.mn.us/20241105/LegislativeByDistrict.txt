@@ -1,6 +1,6 @@
-MN;;;0188;State Representative District 1A;1A;0201;James Sceville;;;DFL;0;174;0;0.00;0
-MN;;;0188;State Representative District 1A;1A;0102;John Burkel;;;R;0;174;0;0.00;0
-MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;0;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;0201;James Sceville;;;DFL;1;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;0102;John Burkel;;;R;1;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;1;174;0;0.00;0
 MN;;;0189;State Representative District 1B;1B;0101;Steve Gander;;;R;0;141;0;0.00;0
 MN;;;0189;State Representative District 1B;1B;0202;Mike Christopherson;;;DFL;0;141;0;0.00;0
 MN;;;0189;State Representative District 1B;1B;9901;WRITE-IN;;;WI;0;141;0;0.00;0
@@ -57,9 +57,9 @@ MN;;;0205;State Representative District 9B;9B;9901;WRITE-IN;;;WI;0;77;0;0.00;0
 MN;;;0206;State Representative District 10A;10A;0201;Julia Samsal Hipp;;;DFL;0;73;0;0.00;0
 MN;;;0206;State Representative District 10A;10A;0102;Ron Kresha;;;R;0;73;0;0.00;0
 MN;;;0206;State Representative District 10A;10A;9901;WRITE-IN;;;WI;0;73;0;0.00;0
-MN;;;0207;State Representative District 10B;10B;0101;Isaac Schultz;;;R;0;50;0;0.00;0
-MN;;;0207;State Representative District 10B;10B;0202;JoEllen Burns;;;DFL;0;50;0;0.00;0
-MN;;;0207;State Representative District 10B;10B;9901;WRITE-IN;;;WI;0;50;0;0.00;0
+MN;;;0207;State Representative District 10B;10B;0101;Isaac Schultz;;;R;1;50;0;0.00;0
+MN;;;0207;State Representative District 10B;10B;0202;JoEllen Burns;;;DFL;1;50;0;0.00;0
+MN;;;0207;State Representative District 10B;10B;9901;WRITE-IN;;;WI;1;50;0;0.00;0
 MN;;;0208;State Representative District 11A;11A;0101;Jeff Dotseth;;;R;0;57;0;0.00;0
 MN;;;0208;State Representative District 11A;11A;0202;Pete Radosevich;;;DFL;0;57;0;0.00;0
 MN;;;0208;State Representative District 11A;11A;9901;WRITE-IN;;;WI;0;57;0;0.00;0
@@ -81,9 +81,9 @@ MN;;;0213;State Representative District 13B;13B;9901;WRITE-IN;;;WI;0;21;0;0.00;0
 MN;;;0214;State Representative District 14A;14A;0101;Bernie Perryman;;;R;0;18;0;0.00;0
 MN;;;0214;State Representative District 14A;14A;0202;Abdi Daisane;;;DFL;0;18;0;0.00;0
 MN;;;0214;State Representative District 14A;14A;9901;WRITE-IN;;;WI;0;18;0;0.00;0
-MN;;;0215;State Representative District 14B;14B;0201;Dan Wolgamott;;;DFL;0;20;0;0.00;0
-MN;;;0215;State Representative District 14B;14B;0102;Sue Ek;;;R;0;20;0;0.00;0
-MN;;;0215;State Representative District 14B;14B;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;;;0215;State Representative District 14B;14B;0201;Dan Wolgamott;;;DFL;1;20;0;0.00;0
+MN;;;0215;State Representative District 14B;14B;0102;Sue Ek;;;R;1;20;0;0.00;0
+MN;;;0215;State Representative District 14B;14B;9901;WRITE-IN;;;WI;1;20;0;0.00;0
 MN;;;0216;State Representative District 15A;15A;0101;Chris Swedzinski;;;R;0;94;0;0.00;0
 MN;;;0216;State Representative District 15A;15A;0202;Anthony M Studemann;;;DFL;0;94;0;0.00;0
 MN;;;0216;State Representative District 15A;15A;9901;WRITE-IN;;;WI;0;94;0;0.00;0
@@ -102,9 +102,9 @@ MN;;;0220;State Representative District 17A;17A;9901;WRITE-IN;;;WI;0;36;0;0.00;0
 MN;;;0221;State Representative District 17B;17B;0201;Jennifer Nuesse;;;DFL;0;40;0;0.00;0
 MN;;;0221;State Representative District 17B;17B;0102;Bobbie Harder;;;R;0;40;0;0.00;0
 MN;;;0221;State Representative District 17B;17B;9901;WRITE-IN;;;WI;0;40;0;0.00;0
-MN;;;0222;State Representative District 18A;18A;0201;Jeff Brand;;;DFL;0;35;0;0.00;0
-MN;;;0222;State Representative District 18A;18A;0102;Erica Schwartz;;;R;0;35;0;0.00;0
-MN;;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;0;35;0;0.00;0
+MN;;;0222;State Representative District 18A;18A;0201;Jeff Brand;;;DFL;1;35;0;0.00;0
+MN;;;0222;State Representative District 18A;18A;0102;Erica Schwartz;;;R;1;35;0;0.00;0
+MN;;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;1;35;0;0.00;0
 MN;;;0223;State Representative District 18B;18B;0101;Dar Vosburg;;;R;0;18;0;0.00;0
 MN;;;0223;State Representative District 18B;18B;0202;Luke Frederick;;;DFL;0;18;0;0.00;0
 MN;;;0223;State Representative District 18B;18B;9901;WRITE-IN;;;WI;0;18;0;0.00;0
