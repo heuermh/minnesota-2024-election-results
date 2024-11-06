@@ -1,10 +1,10 @@
-MN;;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;156;4103;32361;58.55;55274
-MN;;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;156;4103;21731;39.32;55274
-MN;;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;156;4103;258;0.47;55274
-MN;;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;156;4103;426;0.77;55274
-MN;;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;156;4103;190;0.34;55274
-MN;;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;156;4103;28;0.05;55274
-MN;;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;156;4103;9;0.02;55274
-MN;;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;156;4103;37;0.07;55274
-MN;;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;156;4103;57;0.10;55274
-MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;156;4103;177;0.32;55274
+MN;;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;245;4103;48534;59.14;82066
+MN;;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;245;4103;29758;36.26;82066
+MN;;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;245;4103;466;0.57;82066
+MN;;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;245;4103;813;0.99;82066
+MN;;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;245;4103;440;0.54;82066
+MN;;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;245;4103;276;0.34;82066
+MN;;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;245;4103;292;0.36;82066
+MN;;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;245;4103;368;0.45;82066
+MN;;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;245;4103;448;0.55;82066
+MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;245;4103;671;0.82;82066

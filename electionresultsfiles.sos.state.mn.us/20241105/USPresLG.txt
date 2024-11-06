@@ -38,16 +38,16 @@ MN;;;0101;U.S. President & Vice President;02B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;02B;0801;Cornel West and Melina Abdullah;;;JFA;1;125;0;0.00;4
 MN;;;0101;U.S. President & Vice President;02B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;125;0;0.00;4
 MN;;;0101;U.S. President & Vice President;02B;9901;WRITE-IN;;;WI;1;125;0;0.00;4
-MN;;;0101;U.S. President & Vice President;03A;0101;Donald J. Trump and JD Vance;;;R;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0501;Jill Stein and Samson Kpadenou;;;G;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0701;Rachele Fruit and Dennis Richter;;;SWP;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0801;Cornel West and Melina Abdullah;;;JFA;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;101;0;0.00;0
-MN;;;0101;U.S. President & Vice President;03A;9901;WRITE-IN;;;WI;1;101;0;0.00;0
+MN;;;0101;U.S. President & Vice President;03A;0101;Donald J. Trump and JD Vance;;;R;22;101;40;1.82;2200
+MN;;;0101;U.S. President & Vice President;03A;0201;Kamala D. Harris and Tim Walz;;;DFL;22;101;80;3.64;2200
+MN;;;0101;U.S. President & Vice President;03A;0301;Chase Oliver and Mike ter Maat;;;LIB;22;101;120;5.45;2200
+MN;;;0101;U.S. President & Vice President;03A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;22;101;160;7.27;2200
+MN;;;0101;U.S. President & Vice President;03A;0501;Jill Stein and Samson Kpadenou;;;G;22;101;200;9.09;2200
+MN;;;0101;U.S. President & Vice President;03A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;22;101;240;10.91;2200
+MN;;;0101;U.S. President & Vice President;03A;0701;Rachele Fruit and Dennis Richter;;;SWP;22;101;280;12.73;2200
+MN;;;0101;U.S. President & Vice President;03A;0801;Cornel West and Melina Abdullah;;;JFA;22;101;320;14.55;2200
+MN;;;0101;U.S. President & Vice President;03A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;22;101;360;16.36;2200
+MN;;;0101;U.S. President & Vice President;03A;9901;WRITE-IN;;;WI;22;101;400;18.18;2200
 MN;;;0101;U.S. President & Vice President;03B;0101;Donald J. Trump and JD Vance;;;R;0;31;0;0.00;0
 MN;;;0101;U.S. President & Vice President;03B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;31;0;0.00;0
 MN;;;0101;U.S. President & Vice President;03B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;31;0;0.00;0
@@ -158,16 +158,16 @@ MN;;;0101;U.S. President & Vice President;08B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;08B;0801;Cornel West and Melina Abdullah;;;JFA;0;16;0;0.00;0
 MN;;;0101;U.S. President & Vice President;08B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;16;0;0.00;0
 MN;;;0101;U.S. President & Vice President;08B;9901;WRITE-IN;;;WI;0;16;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0101;Donald J. Trump and JD Vance;;;R;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0501;Jill Stein and Samson Kpadenou;;;G;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0801;Cornel West and Melina Abdullah;;;JFA;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;106;0;0.00;0
-MN;;;0101;U.S. President & Vice President;09A;9901;WRITE-IN;;;WI;0;106;0;0.00;0
+MN;;;0101;U.S. President & Vice President;09A;0101;Donald J. Trump and JD Vance;;;R;2;106;67;72.83;92
+MN;;;0101;U.S. President & Vice President;09A;0201;Kamala D. Harris and Tim Walz;;;DFL;2;106;20;21.74;92
+MN;;;0101;U.S. President & Vice President;09A;0301;Chase Oliver and Mike ter Maat;;;LIB;2;106;2;2.17;92
+MN;;;0101;U.S. President & Vice President;09A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;2;106;2;2.17;92
+MN;;;0101;U.S. President & Vice President;09A;0501;Jill Stein and Samson Kpadenou;;;G;2;106;1;1.09;92
+MN;;;0101;U.S. President & Vice President;09A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;2;106;0;0.00;92
+MN;;;0101;U.S. President & Vice President;09A;0701;Rachele Fruit and Dennis Richter;;;SWP;2;106;0;0.00;92
+MN;;;0101;U.S. President & Vice President;09A;0801;Cornel West and Melina Abdullah;;;JFA;2;106;0;0.00;92
+MN;;;0101;U.S. President & Vice President;09A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;2;106;0;0.00;92
+MN;;;0101;U.S. President & Vice President;09A;9901;WRITE-IN;;;WI;2;106;0;0.00;92
 MN;;;0101;U.S. President & Vice President;09B;0101;Donald J. Trump and JD Vance;;;R;0;77;0;0.00;0
 MN;;;0101;U.S. President & Vice President;09B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;77;0;0.00;0
 MN;;;0101;U.S. President & Vice President;09B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;77;0;0.00;0
@@ -178,26 +178,26 @@ MN;;;0101;U.S. President & Vice President;09B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;09B;0801;Cornel West and Melina Abdullah;;;JFA;0;77;0;0.00;0
 MN;;;0101;U.S. President & Vice President;09B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;77;0;0.00;0
 MN;;;0101;U.S. President & Vice President;09B;9901;WRITE-IN;;;WI;0;77;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0101;Donald J. Trump and JD Vance;;;R;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0501;Jill Stein and Samson Kpadenou;;;G;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0801;Cornel West and Melina Abdullah;;;JFA;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10A;9901;WRITE-IN;;;WI;0;73;0;0.00;0
-MN;;;0101;U.S. President & Vice President;10B;0101;Donald J. Trump and JD Vance;;;R;5;50;1470;79.03;1860
-MN;;;0101;U.S. President & Vice President;10B;0201;Kamala D. Harris and Tim Walz;;;DFL;5;50;357;19.19;1860
-MN;;;0101;U.S. President & Vice President;10B;0301;Chase Oliver and Mike ter Maat;;;LIB;5;50;5;0.27;1860
-MN;;;0101;U.S. President & Vice President;10B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;5;50;15;0.81;1860
-MN;;;0101;U.S. President & Vice President;10B;0501;Jill Stein and Samson Kpadenou;;;G;5;50;5;0.27;1860
-MN;;;0101;U.S. President & Vice President;10B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;5;50;0;0.00;1860
-MN;;;0101;U.S. President & Vice President;10B;0701;Rachele Fruit and Dennis Richter;;;SWP;5;50;0;0.00;1860
-MN;;;0101;U.S. President & Vice President;10B;0801;Cornel West and Melina Abdullah;;;JFA;5;50;0;0.00;1860
-MN;;;0101;U.S. President & Vice President;10B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;5;50;2;0.11;1860
-MN;;;0101;U.S. President & Vice President;10B;9901;WRITE-IN;;;WI;5;50;6;0.32;1860
+MN;;;0101;U.S. President & Vice President;10A;0101;Donald J. Trump and JD Vance;;;R;1;73;336;63.40;530
+MN;;;0101;U.S. President & Vice President;10A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;73;188;35.47;530
+MN;;;0101;U.S. President & Vice President;10A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;73;0;0.00;530
+MN;;;0101;U.S. President & Vice President;10A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;73;2;0.38;530
+MN;;;0101;U.S. President & Vice President;10A;0501;Jill Stein and Samson Kpadenou;;;G;1;73;2;0.38;530
+MN;;;0101;U.S. President & Vice President;10A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;73;0;0.00;530
+MN;;;0101;U.S. President & Vice President;10A;0701;Rachele Fruit and Dennis Richter;;;SWP;1;73;0;0.00;530
+MN;;;0101;U.S. President & Vice President;10A;0801;Cornel West and Melina Abdullah;;;JFA;1;73;0;0.00;530
+MN;;;0101;U.S. President & Vice President;10A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;73;1;0.19;530
+MN;;;0101;U.S. President & Vice President;10A;9901;WRITE-IN;;;WI;1;73;1;0.19;530
+MN;;;0101;U.S. President & Vice President;10B;0101;Donald J. Trump and JD Vance;;;R;9;50;2804;78.02;3594
+MN;;;0101;U.S. President & Vice President;10B;0201;Kamala D. Harris and Tim Walz;;;DFL;9;50;723;20.12;3594
+MN;;;0101;U.S. President & Vice President;10B;0301;Chase Oliver and Mike ter Maat;;;LIB;9;50;10;0.28;3594
+MN;;;0101;U.S. President & Vice President;10B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;9;50;33;0.92;3594
+MN;;;0101;U.S. President & Vice President;10B;0501;Jill Stein and Samson Kpadenou;;;G;9;50;11;0.31;3594
+MN;;;0101;U.S. President & Vice President;10B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;9;50;1;0.03;3594
+MN;;;0101;U.S. President & Vice President;10B;0701;Rachele Fruit and Dennis Richter;;;SWP;9;50;0;0.00;3594
+MN;;;0101;U.S. President & Vice President;10B;0801;Cornel West and Melina Abdullah;;;JFA;9;50;0;0.00;3594
+MN;;;0101;U.S. President & Vice President;10B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;9;50;4;0.11;3594
+MN;;;0101;U.S. President & Vice President;10B;9901;WRITE-IN;;;WI;9;50;8;0.22;3594
 MN;;;0101;U.S. President & Vice President;11A;0101;Donald J. Trump and JD Vance;;;R;9;57;304;55.47;548
 MN;;;0101;U.S. President & Vice President;11A;0201;Kamala D. Harris and Tim Walz;;;DFL;9;57;234;42.70;548
 MN;;;0101;U.S. President & Vice President;11A;0301;Chase Oliver and Mike ter Maat;;;LIB;9;57;1;0.18;548
@@ -208,36 +208,36 @@ MN;;;0101;U.S. President & Vice President;11A;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;11A;0801;Cornel West and Melina Abdullah;;;JFA;9;57;0;0.00;548
 MN;;;0101;U.S. President & Vice President;11A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;9;57;0;0.00;548
 MN;;;0101;U.S. President & Vice President;11A;9901;WRITE-IN;;;WI;9;57;1;0.18;548
-MN;;;0101;U.S. President & Vice President;11B;0101;Donald J. Trump and JD Vance;;;R;4;49;146;70.87;206
-MN;;;0101;U.S. President & Vice President;11B;0201;Kamala D. Harris and Tim Walz;;;DFL;4;49;56;27.18;206
-MN;;;0101;U.S. President & Vice President;11B;0301;Chase Oliver and Mike ter Maat;;;LIB;4;49;1;0.49;206
-MN;;;0101;U.S. President & Vice President;11B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;4;49;2;0.97;206
-MN;;;0101;U.S. President & Vice President;11B;0501;Jill Stein and Samson Kpadenou;;;G;4;49;0;0.00;206
-MN;;;0101;U.S. President & Vice President;11B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;4;49;0;0.00;206
-MN;;;0101;U.S. President & Vice President;11B;0701;Rachele Fruit and Dennis Richter;;;SWP;4;49;0;0.00;206
-MN;;;0101;U.S. President & Vice President;11B;0801;Cornel West and Melina Abdullah;;;JFA;4;49;0;0.00;206
-MN;;;0101;U.S. President & Vice President;11B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;4;49;1;0.49;206
-MN;;;0101;U.S. President & Vice President;11B;9901;WRITE-IN;;;WI;4;49;0;0.00;206
-MN;;;0101;U.S. President & Vice President;12A;0101;Donald J. Trump and JD Vance;;;R;3;125;748;68.00;1100
-MN;;;0101;U.S. President & Vice President;12A;0201;Kamala D. Harris and Tim Walz;;;DFL;3;125;330;30.00;1100
-MN;;;0101;U.S. President & Vice President;12A;0301;Chase Oliver and Mike ter Maat;;;LIB;3;125;5;0.45;1100
-MN;;;0101;U.S. President & Vice President;12A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;3;125;12;1.09;1100
-MN;;;0101;U.S. President & Vice President;12A;0501;Jill Stein and Samson Kpadenou;;;G;3;125;1;0.09;1100
-MN;;;0101;U.S. President & Vice President;12A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;3;125;0;0.00;1100
-MN;;;0101;U.S. President & Vice President;12A;0701;Rachele Fruit and Dennis Richter;;;SWP;3;125;0;0.00;1100
-MN;;;0101;U.S. President & Vice President;12A;0801;Cornel West and Melina Abdullah;;;JFA;3;125;0;0.00;1100
-MN;;;0101;U.S. President & Vice President;12A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;3;125;1;0.09;1100
-MN;;;0101;U.S. President & Vice President;12A;9901;WRITE-IN;;;WI;3;125;3;0.27;1100
-MN;;;0101;U.S. President & Vice President;12B;0101;Donald J. Trump and JD Vance;;;R;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0501;Jill Stein and Samson Kpadenou;;;G;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0701;Rachele Fruit and Dennis Richter;;;SWP;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0801;Cornel West and Melina Abdullah;;;JFA;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;32;0;0.00;0
-MN;;;0101;U.S. President & Vice President;12B;9901;WRITE-IN;;;WI;0;32;0;0.00;0
+MN;;;0101;U.S. President & Vice President;11B;0101;Donald J. Trump and JD Vance;;;R;8;49;1022;70.48;1450
+MN;;;0101;U.S. President & Vice President;11B;0201;Kamala D. Harris and Tim Walz;;;DFL;8;49;408;28.14;1450
+MN;;;0101;U.S. President & Vice President;11B;0301;Chase Oliver and Mike ter Maat;;;LIB;8;49;7;0.48;1450
+MN;;;0101;U.S. President & Vice President;11B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;8;49;7;0.48;1450
+MN;;;0101;U.S. President & Vice President;11B;0501;Jill Stein and Samson Kpadenou;;;G;8;49;2;0.14;1450
+MN;;;0101;U.S. President & Vice President;11B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;8;49;0;0.00;1450
+MN;;;0101;U.S. President & Vice President;11B;0701;Rachele Fruit and Dennis Richter;;;SWP;8;49;0;0.00;1450
+MN;;;0101;U.S. President & Vice President;11B;0801;Cornel West and Melina Abdullah;;;JFA;8;49;0;0.00;1450
+MN;;;0101;U.S. President & Vice President;11B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;8;49;2;0.14;1450
+MN;;;0101;U.S. President & Vice President;11B;9901;WRITE-IN;;;WI;8;49;2;0.14;1450
+MN;;;0101;U.S. President & Vice President;12A;0101;Donald J. Trump and JD Vance;;;R;8;125;1176;66.52;1768
+MN;;;0101;U.S. President & Vice President;12A;0201;Kamala D. Harris and Tim Walz;;;DFL;8;125;557;31.50;1768
+MN;;;0101;U.S. President & Vice President;12A;0301;Chase Oliver and Mike ter Maat;;;LIB;8;125;5;0.28;1768
+MN;;;0101;U.S. President & Vice President;12A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;8;125;19;1.07;1768
+MN;;;0101;U.S. President & Vice President;12A;0501;Jill Stein and Samson Kpadenou;;;G;8;125;1;0.06;1768
+MN;;;0101;U.S. President & Vice President;12A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;8;125;0;0.00;1768
+MN;;;0101;U.S. President & Vice President;12A;0701;Rachele Fruit and Dennis Richter;;;SWP;8;125;0;0.00;1768
+MN;;;0101;U.S. President & Vice President;12A;0801;Cornel West and Melina Abdullah;;;JFA;8;125;1;0.06;1768
+MN;;;0101;U.S. President & Vice President;12A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;8;125;2;0.11;1768
+MN;;;0101;U.S. President & Vice President;12A;9901;WRITE-IN;;;WI;8;125;7;0.40;1768
+MN;;;0101;U.S. President & Vice President;12B;0101;Donald J. Trump and JD Vance;;;R;3;32;365;74.04;493
+MN;;;0101;U.S. President & Vice President;12B;0201;Kamala D. Harris and Tim Walz;;;DFL;3;32;116;23.53;493
+MN;;;0101;U.S. President & Vice President;12B;0301;Chase Oliver and Mike ter Maat;;;LIB;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;3;32;7;1.42;493
+MN;;;0101;U.S. President & Vice President;12B;0501;Jill Stein and Samson Kpadenou;;;G;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;0701;Rachele Fruit and Dennis Richter;;;SWP;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;0801;Cornel West and Melina Abdullah;;;JFA;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;3;32;0;0.00;493
+MN;;;0101;U.S. President & Vice President;12B;9901;WRITE-IN;;;WI;3;32;5;1.01;493
 MN;;;0101;U.S. President & Vice President;13A;0101;Donald J. Trump and JD Vance;;;R;1;27;0;0.00;0
 MN;;;0101;U.S. President & Vice President;13A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;27;0;0.00;0
 MN;;;0101;U.S. President & Vice President;13A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;27;0;0.00;0
@@ -288,16 +288,16 @@ MN;;;0101;U.S. President & Vice President;15A;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;15A;0801;Cornel West and Melina Abdullah;;;JFA;0;94;0;0.00;0
 MN;;;0101;U.S. President & Vice President;15A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;94;0;0.00;0
 MN;;;0101;U.S. President & Vice President;15A;9901;WRITE-IN;;;WI;0;94;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0101;Donald J. Trump and JD Vance;;;R;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0501;Jill Stein and Samson Kpadenou;;;G;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0701;Rachele Fruit and Dennis Richter;;;SWP;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0801;Cornel West and Melina Abdullah;;;JFA;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;78;0;0.00;0
-MN;;;0101;U.S. President & Vice President;15B;9901;WRITE-IN;;;WI;0;78;0;0.00;0
+MN;;;0101;U.S. President & Vice President;15B;0101;Donald J. Trump and JD Vance;;;R;1;78;48;71.64;67
+MN;;;0101;U.S. President & Vice President;15B;0201;Kamala D. Harris and Tim Walz;;;DFL;1;78;19;28.36;67
+MN;;;0101;U.S. President & Vice President;15B;0301;Chase Oliver and Mike ter Maat;;;LIB;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0501;Jill Stein and Samson Kpadenou;;;G;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0701;Rachele Fruit and Dennis Richter;;;SWP;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0801;Cornel West and Melina Abdullah;;;JFA;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;78;0;0.00;67
+MN;;;0101;U.S. President & Vice President;15B;9901;WRITE-IN;;;WI;1;78;0;0.00;67
 MN;;;0101;U.S. President & Vice President;16A;0101;Donald J. Trump and JD Vance;;;R;0;86;0;0.00;0
 MN;;;0101;U.S. President & Vice President;16A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;86;0;0.00;0
 MN;;;0101;U.S. President & Vice President;16A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;86;0;0.00;0
@@ -338,16 +338,16 @@ MN;;;0101;U.S. President & Vice President;17B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;17B;0801;Cornel West and Melina Abdullah;;;JFA;1;40;0;0.00;209
 MN;;;0101;U.S. President & Vice President;17B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;40;0;0.00;209
 MN;;;0101;U.S. President & Vice President;17B;9901;WRITE-IN;;;WI;1;40;0;0.00;209
-MN;;;0101;U.S. President & Vice President;18A;0101;Donald J. Trump and JD Vance;;;R;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0201;Kamala D. Harris and Tim Walz;;;DFL;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0301;Chase Oliver and Mike ter Maat;;;LIB;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0501;Jill Stein and Samson Kpadenou;;;G;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0701;Rachele Fruit and Dennis Richter;;;SWP;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0801;Cornel West and Melina Abdullah;;;JFA;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;2;35;0;0.00;0
-MN;;;0101;U.S. President & Vice President;18A;9901;WRITE-IN;;;WI;2;35;0;0.00;0
+MN;;;0101;U.S. President & Vice President;18A;0101;Donald J. Trump and JD Vance;;;R;12;35;1789;68.13;2626
+MN;;;0101;U.S. President & Vice President;18A;0201;Kamala D. Harris and Tim Walz;;;DFL;12;35;783;29.82;2626
+MN;;;0101;U.S. President & Vice President;18A;0301;Chase Oliver and Mike ter Maat;;;LIB;12;35;11;0.42;2626
+MN;;;0101;U.S. President & Vice President;18A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;12;35;24;0.91;2626
+MN;;;0101;U.S. President & Vice President;18A;0501;Jill Stein and Samson Kpadenou;;;G;12;35;3;0.11;2626
+MN;;;0101;U.S. President & Vice President;18A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;12;35;1;0.04;2626
+MN;;;0101;U.S. President & Vice President;18A;0701;Rachele Fruit and Dennis Richter;;;SWP;12;35;0;0.00;2626
+MN;;;0101;U.S. President & Vice President;18A;0801;Cornel West and Melina Abdullah;;;JFA;12;35;2;0.08;2626
+MN;;;0101;U.S. President & Vice President;18A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;12;35;2;0.08;2626
+MN;;;0101;U.S. President & Vice President;18A;9901;WRITE-IN;;;WI;12;35;11;0.42;2626
 MN;;;0101;U.S. President & Vice President;18B;0101;Donald J. Trump and JD Vance;;;R;0;18;0;0.00;0
 MN;;;0101;U.S. President & Vice President;18B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;18;0;0.00;0
 MN;;;0101;U.S. President & Vice President;18B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;18;0;0.00;0
@@ -358,26 +358,26 @@ MN;;;0101;U.S. President & Vice President;18B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;18B;0801;Cornel West and Melina Abdullah;;;JFA;0;18;0;0.00;0
 MN;;;0101;U.S. President & Vice President;18B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;18;0;0.00;0
 MN;;;0101;U.S. President & Vice President;18B;9901;WRITE-IN;;;WI;0;18;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19A;0101;Donald J. Trump and JD Vance;;;R;10;26;5435;62.40;8710
-MN;;;0101;U.S. President & Vice President;19A;0201;Kamala D. Harris and Tim Walz;;;DFL;10;26;3089;35.46;8710
-MN;;;0101;U.S. President & Vice President;19A;0301;Chase Oliver and Mike ter Maat;;;LIB;10;26;33;0.38;8710
-MN;;;0101;U.S. President & Vice President;19A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;10;26;82;0.94;8710
-MN;;;0101;U.S. President & Vice President;19A;0501;Jill Stein and Samson Kpadenou;;;G;10;26;32;0.37;8710
-MN;;;0101;U.S. President & Vice President;19A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;10;26;4;0.05;8710
-MN;;;0101;U.S. President & Vice President;19A;0701;Rachele Fruit and Dennis Richter;;;SWP;10;26;1;0.01;8710
-MN;;;0101;U.S. President & Vice President;19A;0801;Cornel West and Melina Abdullah;;;JFA;10;26;4;0.05;8710
-MN;;;0101;U.S. President & Vice President;19A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;10;26;9;0.10;8710
-MN;;;0101;U.S. President & Vice President;19A;9901;WRITE-IN;;;WI;10;26;21;0.24;8710
-MN;;;0101;U.S. President & Vice President;19B;0101;Donald J. Trump and JD Vance;;;R;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0501;Jill Stein and Samson Kpadenou;;;G;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0701;Rachele Fruit and Dennis Richter;;;SWP;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0801;Cornel West and Melina Abdullah;;;JFA;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;27;0;0.00;0
-MN;;;0101;U.S. President & Vice President;19B;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;;;0101;U.S. President & Vice President;19A;0101;Donald J. Trump and JD Vance;;;R;11;26;6867;61.54;11158
+MN;;;0101;U.S. President & Vice President;19A;0201;Kamala D. Harris and Tim Walz;;;DFL;11;26;4063;36.41;11158
+MN;;;0101;U.S. President & Vice President;19A;0301;Chase Oliver and Mike ter Maat;;;LIB;11;26;40;0.36;11158
+MN;;;0101;U.S. President & Vice President;19A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;11;26;99;0.89;11158
+MN;;;0101;U.S. President & Vice President;19A;0501;Jill Stein and Samson Kpadenou;;;G;11;26;41;0.37;11158
+MN;;;0101;U.S. President & Vice President;19A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;11;26;6;0.05;11158
+MN;;;0101;U.S. President & Vice President;19A;0701;Rachele Fruit and Dennis Richter;;;SWP;11;26;2;0.02;11158
+MN;;;0101;U.S. President & Vice President;19A;0801;Cornel West and Melina Abdullah;;;JFA;11;26;4;0.04;11158
+MN;;;0101;U.S. President & Vice President;19A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;11;26;11;0.10;11158
+MN;;;0101;U.S. President & Vice President;19A;9901;WRITE-IN;;;WI;11;26;25;0.22;11158
+MN;;;0101;U.S. President & Vice President;19B;0101;Donald J. Trump and JD Vance;;;R;6;27;2073;65.05;3187
+MN;;;0101;U.S. President & Vice President;19B;0201;Kamala D. Harris and Tim Walz;;;DFL;6;27;1034;32.44;3187
+MN;;;0101;U.S. President & Vice President;19B;0301;Chase Oliver and Mike ter Maat;;;LIB;6;27;14;0.44;3187
+MN;;;0101;U.S. President & Vice President;19B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;6;27;35;1.10;3187
+MN;;;0101;U.S. President & Vice President;19B;0501;Jill Stein and Samson Kpadenou;;;G;6;27;6;0.19;3187
+MN;;;0101;U.S. President & Vice President;19B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;6;27;0;0.00;3187
+MN;;;0101;U.S. President & Vice President;19B;0701;Rachele Fruit and Dennis Richter;;;SWP;6;27;1;0.03;3187
+MN;;;0101;U.S. President & Vice President;19B;0801;Cornel West and Melina Abdullah;;;JFA;6;27;3;0.09;3187
+MN;;;0101;U.S. President & Vice President;19B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;6;27;3;0.09;3187
+MN;;;0101;U.S. President & Vice President;19B;9901;WRITE-IN;;;WI;6;27;18;0.56;3187
 MN;;;0101;U.S. President & Vice President;20A;0101;Donald J. Trump and JD Vance;;;R;0;40;0;0.00;0
 MN;;;0101;U.S. President & Vice President;20A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;40;0;0.00;0
 MN;;;0101;U.S. President & Vice President;20A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;40;0;0.00;0
@@ -398,26 +398,26 @@ MN;;;0101;U.S. President & Vice President;20B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;20B;0801;Cornel West and Melina Abdullah;;;JFA;0;51;0;0.00;0
 MN;;;0101;U.S. President & Vice President;20B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;51;0;0.00;0
 MN;;;0101;U.S. President & Vice President;20B;9901;WRITE-IN;;;WI;0;51;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21A;0101;Donald J. Trump and JD Vance;;;R;44;127;3842;75.41;5095
-MN;;;0101;U.S. President & Vice President;21A;0201;Kamala D. Harris and Tim Walz;;;DFL;44;127;1169;22.94;5095
-MN;;;0101;U.S. President & Vice President;21A;0301;Chase Oliver and Mike ter Maat;;;LIB;44;127;15;0.29;5095
-MN;;;0101;U.S. President & Vice President;21A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;44;127;49;0.96;5095
-MN;;;0101;U.S. President & Vice President;21A;0501;Jill Stein and Samson Kpadenou;;;G;44;127;5;0.10;5095
-MN;;;0101;U.S. President & Vice President;21A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;44;127;1;0.02;5095
-MN;;;0101;U.S. President & Vice President;21A;0701;Rachele Fruit and Dennis Richter;;;SWP;44;127;0;0.00;5095
-MN;;;0101;U.S. President & Vice President;21A;0801;Cornel West and Melina Abdullah;;;JFA;44;127;0;0.00;5095
-MN;;;0101;U.S. President & Vice President;21A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;44;127;3;0.06;5095
-MN;;;0101;U.S. President & Vice President;21A;9901;WRITE-IN;;;WI;44;127;11;0.22;5095
-MN;;;0101;U.S. President & Vice President;21B;0101;Donald J. Trump and JD Vance;;;R;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0501;Jill Stein and Samson Kpadenou;;;G;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0701;Rachele Fruit and Dennis Richter;;;SWP;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0801;Cornel West and Melina Abdullah;;;JFA;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;83;0;0.00;0
-MN;;;0101;U.S. President & Vice President;21B;9901;WRITE-IN;;;WI;0;83;0;0.00;0
+MN;;;0101;U.S. President & Vice President;21A;0101;Donald J. Trump and JD Vance;;;R;45;127;3906;75.55;5170
+MN;;;0101;U.S. President & Vice President;21A;0201;Kamala D. Harris and Tim Walz;;;DFL;45;127;1179;22.80;5170
+MN;;;0101;U.S. President & Vice President;21A;0301;Chase Oliver and Mike ter Maat;;;LIB;45;127;15;0.29;5170
+MN;;;0101;U.S. President & Vice President;21A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;45;127;50;0.97;5170
+MN;;;0101;U.S. President & Vice President;21A;0501;Jill Stein and Samson Kpadenou;;;G;45;127;5;0.10;5170
+MN;;;0101;U.S. President & Vice President;21A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;45;127;1;0.02;5170
+MN;;;0101;U.S. President & Vice President;21A;0701;Rachele Fruit and Dennis Richter;;;SWP;45;127;0;0.00;5170
+MN;;;0101;U.S. President & Vice President;21A;0801;Cornel West and Melina Abdullah;;;JFA;45;127;0;0.00;5170
+MN;;;0101;U.S. President & Vice President;21A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;45;127;3;0.06;5170
+MN;;;0101;U.S. President & Vice President;21A;9901;WRITE-IN;;;WI;45;127;11;0.21;5170
+MN;;;0101;U.S. President & Vice President;21B;0101;Donald J. Trump and JD Vance;;;R;14;83;1248;75.82;1646
+MN;;;0101;U.S. President & Vice President;21B;0201;Kamala D. Harris and Tim Walz;;;DFL;14;83;362;21.99;1646
+MN;;;0101;U.S. President & Vice President;21B;0301;Chase Oliver and Mike ter Maat;;;LIB;14;83;4;0.24;1646
+MN;;;0101;U.S. President & Vice President;21B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;14;83;15;0.91;1646
+MN;;;0101;U.S. President & Vice President;21B;0501;Jill Stein and Samson Kpadenou;;;G;14;83;0;0.00;1646
+MN;;;0101;U.S. President & Vice President;21B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;14;83;0;0.00;1646
+MN;;;0101;U.S. President & Vice President;21B;0701;Rachele Fruit and Dennis Richter;;;SWP;14;83;0;0.00;1646
+MN;;;0101;U.S. President & Vice President;21B;0801;Cornel West and Melina Abdullah;;;JFA;14;83;1;0.06;1646
+MN;;;0101;U.S. President & Vice President;21B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;14;83;8;0.49;1646
+MN;;;0101;U.S. President & Vice President;21B;9901;WRITE-IN;;;WI;14;83;8;0.49;1646
 MN;;;0101;U.S. President & Vice President;22A;0101;Donald J. Trump and JD Vance;;;R;0;75;0;0.00;0
 MN;;;0101;U.S. President & Vice President;22A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;75;0;0.00;0
 MN;;;0101;U.S. President & Vice President;22A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;75;0;0.00;0
@@ -438,16 +438,16 @@ MN;;;0101;U.S. President & Vice President;22B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;22B;0801;Cornel West and Melina Abdullah;;;JFA;1;35;0;0.00;612
 MN;;;0101;U.S. President & Vice President;22B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;35;0;0.00;612
 MN;;;0101;U.S. President & Vice President;22B;9901;WRITE-IN;;;WI;1;35;0;0.00;612
-MN;;;0101;U.S. President & Vice President;23A;0101;Donald J. Trump and JD Vance;;;R;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0501;Jill Stein and Samson Kpadenou;;;G;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0801;Cornel West and Melina Abdullah;;;JFA;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;70;0;0.00;0
-MN;;;0101;U.S. President & Vice President;23A;9901;WRITE-IN;;;WI;0;70;0;0.00;0
+MN;;;0101;U.S. President & Vice President;23A;0101;Donald J. Trump and JD Vance;;;R;3;70;799;71.98;1110
+MN;;;0101;U.S. President & Vice President;23A;0201;Kamala D. Harris and Tim Walz;;;DFL;3;70;287;25.86;1110
+MN;;;0101;U.S. President & Vice President;23A;0301;Chase Oliver and Mike ter Maat;;;LIB;3;70;2;0.18;1110
+MN;;;0101;U.S. President & Vice President;23A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;3;70;9;0.81;1110
+MN;;;0101;U.S. President & Vice President;23A;0501;Jill Stein and Samson Kpadenou;;;G;3;70;5;0.45;1110
+MN;;;0101;U.S. President & Vice President;23A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;3;70;0;0.00;1110
+MN;;;0101;U.S. President & Vice President;23A;0701;Rachele Fruit and Dennis Richter;;;SWP;3;70;0;0.00;1110
+MN;;;0101;U.S. President & Vice President;23A;0801;Cornel West and Melina Abdullah;;;JFA;3;70;2;0.18;1110
+MN;;;0101;U.S. President & Vice President;23A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;3;70;4;0.36;1110
+MN;;;0101;U.S. President & Vice President;23A;9901;WRITE-IN;;;WI;3;70;2;0.18;1110
 MN;;;0101;U.S. President & Vice President;23B;0101;Donald J. Trump and JD Vance;;;R;0;43;0;0.00;0
 MN;;;0101;U.S. President & Vice President;23B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;43;0;0.00;0
 MN;;;0101;U.S. President & Vice President;23B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;43;0;0.00;0
@@ -458,16 +458,16 @@ MN;;;0101;U.S. President & Vice President;23B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;23B;0801;Cornel West and Melina Abdullah;;;JFA;0;43;0;0.00;0
 MN;;;0101;U.S. President & Vice President;23B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;43;0;0.00;0
 MN;;;0101;U.S. President & Vice President;23B;9901;WRITE-IN;;;WI;0;43;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0101;Donald J. Trump and JD Vance;;;R;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0501;Jill Stein and Samson Kpadenou;;;G;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0701;Rachele Fruit and Dennis Richter;;;SWP;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0801;Cornel West and Melina Abdullah;;;JFA;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;33;0;0.00;0
-MN;;;0101;U.S. President & Vice President;24A;9901;WRITE-IN;;;WI;1;33;0;0.00;0
+MN;;;0101;U.S. President & Vice President;24A;0101;Donald J. Trump and JD Vance;;;R;6;33;1003;70.83;1416
+MN;;;0101;U.S. President & Vice President;24A;0201;Kamala D. Harris and Tim Walz;;;DFL;6;33;379;26.77;1416
+MN;;;0101;U.S. President & Vice President;24A;0301;Chase Oliver and Mike ter Maat;;;LIB;6;33;6;0.42;1416
+MN;;;0101;U.S. President & Vice President;24A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;6;33;19;1.34;1416
+MN;;;0101;U.S. President & Vice President;24A;0501;Jill Stein and Samson Kpadenou;;;G;6;33;4;0.28;1416
+MN;;;0101;U.S. President & Vice President;24A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;6;33;2;0.14;1416
+MN;;;0101;U.S. President & Vice President;24A;0701;Rachele Fruit and Dennis Richter;;;SWP;6;33;0;0.00;1416
+MN;;;0101;U.S. President & Vice President;24A;0801;Cornel West and Melina Abdullah;;;JFA;6;33;0;0.00;1416
+MN;;;0101;U.S. President & Vice President;24A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;6;33;1;0.07;1416
+MN;;;0101;U.S. President & Vice President;24A;9901;WRITE-IN;;;WI;6;33;2;0.14;1416
 MN;;;0101;U.S. President & Vice President;24B;0101;Donald J. Trump and JD Vance;;;R;0;29;0;0.00;0
 MN;;;0101;U.S. President & Vice President;24B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;29;0;0.00;0
 MN;;;0101;U.S. President & Vice President;24B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;29;0;0.00;0
@@ -558,36 +558,36 @@ MN;;;0101;U.S. President & Vice President;28B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;28B;0801;Cornel West and Melina Abdullah;;;JFA;0;19;0;0.00;0
 MN;;;0101;U.S. President & Vice President;28B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;19;0;0.00;0
 MN;;;0101;U.S. President & Vice President;28B;9901;WRITE-IN;;;WI;0;19;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0101;Donald J. Trump and JD Vance;;;R;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0501;Jill Stein and Samson Kpadenou;;;G;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0801;Cornel West and Melina Abdullah;;;JFA;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29A;9901;WRITE-IN;;;WI;0;23;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0101;Donald J. Trump and JD Vance;;;R;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0501;Jill Stein and Samson Kpadenou;;;G;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0701;Rachele Fruit and Dennis Richter;;;SWP;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0801;Cornel West and Melina Abdullah;;;JFA;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;29B;9901;WRITE-IN;;;WI;0;14;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0101;Donald J. Trump and JD Vance;;;R;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0501;Jill Stein and Samson Kpadenou;;;G;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0801;Cornel West and Melina Abdullah;;;JFA;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;30A;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;;;0101;U.S. President & Vice President;29A;0101;Donald J. Trump and JD Vance;;;R;4;23;1271;73.51;1729
+MN;;;0101;U.S. President & Vice President;29A;0201;Kamala D. Harris and Tim Walz;;;DFL;4;23;427;24.70;1729
+MN;;;0101;U.S. President & Vice President;29A;0301;Chase Oliver and Mike ter Maat;;;LIB;4;23;9;0.52;1729
+MN;;;0101;U.S. President & Vice President;29A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;4;23;14;0.81;1729
+MN;;;0101;U.S. President & Vice President;29A;0501;Jill Stein and Samson Kpadenou;;;G;4;23;1;0.06;1729
+MN;;;0101;U.S. President & Vice President;29A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;4;23;0;0.00;1729
+MN;;;0101;U.S. President & Vice President;29A;0701;Rachele Fruit and Dennis Richter;;;SWP;4;23;0;0.00;1729
+MN;;;0101;U.S. President & Vice President;29A;0801;Cornel West and Melina Abdullah;;;JFA;4;23;1;0.06;1729
+MN;;;0101;U.S. President & Vice President;29A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;4;23;1;0.06;1729
+MN;;;0101;U.S. President & Vice President;29A;9901;WRITE-IN;;;WI;4;23;5;0.29;1729
+MN;;;0101;U.S. President & Vice President;29B;0101;Donald J. Trump and JD Vance;;;R;1;14;972;58.20;1670
+MN;;;0101;U.S. President & Vice President;29B;0201;Kamala D. Harris and Tim Walz;;;DFL;1;14;664;39.76;1670
+MN;;;0101;U.S. President & Vice President;29B;0301;Chase Oliver and Mike ter Maat;;;LIB;1;14;5;0.30;1670
+MN;;;0101;U.S. President & Vice President;29B;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;14;17;1.02;1670
+MN;;;0101;U.S. President & Vice President;29B;0501;Jill Stein and Samson Kpadenou;;;G;1;14;2;0.12;1670
+MN;;;0101;U.S. President & Vice President;29B;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;14;1;0.06;1670
+MN;;;0101;U.S. President & Vice President;29B;0701;Rachele Fruit and Dennis Richter;;;SWP;1;14;0;0.00;1670
+MN;;;0101;U.S. President & Vice President;29B;0801;Cornel West and Melina Abdullah;;;JFA;1;14;0;0.00;1670
+MN;;;0101;U.S. President & Vice President;29B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;14;2;0.12;1670
+MN;;;0101;U.S. President & Vice President;29B;9901;WRITE-IN;;;WI;1;14;7;0.42;1670
+MN;;;0101;U.S. President & Vice President;30A;0101;Donald J. Trump and JD Vance;;;R;1;11;1479;67.32;2197
+MN;;;0101;U.S. President & Vice President;30A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;11;677;30.81;2197
+MN;;;0101;U.S. President & Vice President;30A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;11;10;0.46;2197
+MN;;;0101;U.S. President & Vice President;30A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;11;13;0.59;2197
+MN;;;0101;U.S. President & Vice President;30A;0501;Jill Stein and Samson Kpadenou;;;G;1;11;5;0.23;2197
+MN;;;0101;U.S. President & Vice President;30A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;11;0;0.00;2197
+MN;;;0101;U.S. President & Vice President;30A;0701;Rachele Fruit and Dennis Richter;;;SWP;1;11;0;0.00;2197
+MN;;;0101;U.S. President & Vice President;30A;0801;Cornel West and Melina Abdullah;;;JFA;1;11;1;0.05;2197
+MN;;;0101;U.S. President & Vice President;30A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;11;1;0.05;2197
+MN;;;0101;U.S. President & Vice President;30A;9901;WRITE-IN;;;WI;1;11;11;0.50;2197
 MN;;;0101;U.S. President & Vice President;30B;0101;Donald J. Trump and JD Vance;;;R;7;14;7155;64.77;11046
 MN;;;0101;U.S. President & Vice President;30B;0201;Kamala D. Harris and Tim Walz;;;DFL;7;14;3664;33.17;11046
 MN;;;0101;U.S. President & Vice President;30B;0301;Chase Oliver and Mike ter Maat;;;LIB;7;14;67;0.61;11046
@@ -658,16 +658,16 @@ MN;;;0101;U.S. President & Vice President;33B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;33B;0801;Cornel West and Melina Abdullah;;;JFA;0;13;0;0.00;0
 MN;;;0101;U.S. President & Vice President;33B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;13;0;0.00;0
 MN;;;0101;U.S. President & Vice President;33B;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0101;Donald J. Trump and JD Vance;;;R;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0201;Kamala D. Harris and Tim Walz;;;DFL;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0301;Chase Oliver and Mike ter Maat;;;LIB;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0501;Jill Stein and Samson Kpadenou;;;G;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0701;Rachele Fruit and Dennis Richter;;;SWP;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0801;Cornel West and Melina Abdullah;;;JFA;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;34A;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;;;0101;U.S. President & Vice President;34A;0101;Donald J. Trump and JD Vance;;;R;1;11;16;59.26;27
+MN;;;0101;U.S. President & Vice President;34A;0201;Kamala D. Harris and Tim Walz;;;DFL;1;11;11;40.74;27
+MN;;;0101;U.S. President & Vice President;34A;0301;Chase Oliver and Mike ter Maat;;;LIB;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0501;Jill Stein and Samson Kpadenou;;;G;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0701;Rachele Fruit and Dennis Richter;;;SWP;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0801;Cornel West and Melina Abdullah;;;JFA;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;1;11;0;0.00;27
+MN;;;0101;U.S. President & Vice President;34A;9901;WRITE-IN;;;WI;1;11;0;0.00;27
 MN;;;0101;U.S. President & Vice President;34B;0101;Donald J. Trump and JD Vance;;;R;0;14;0;0.00;0
 MN;;;0101;U.S. President & Vice President;34B;0201;Kamala D. Harris and Tim Walz;;;DFL;0;14;0;0.00;0
 MN;;;0101;U.S. President & Vice President;34B;0301;Chase Oliver and Mike ter Maat;;;LIB;0;14;0;0.00;0
@@ -1138,16 +1138,16 @@ MN;;;0101;U.S. President & Vice President;57B;0701;Rachele Fruit and Dennis Rich
 MN;;;0101;U.S. President & Vice President;57B;0801;Cornel West and Melina Abdullah;;;JFA;0;11;0;0.00;0
 MN;;;0101;U.S. President & Vice President;57B;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;11;0;0.00;0
 MN;;;0101;U.S. President & Vice President;57B;9901;WRITE-IN;;;WI;0;11;0;0.00;0
-MN;;;0101;U.S. President & Vice President;58A;0101;Donald J. Trump and JD Vance;;;R;11;17;6387;38.99;16380
-MN;;;0101;U.S. President & Vice President;58A;0201;Kamala D. Harris and Tim Walz;;;DFL;11;17;9610;58.67;16380
-MN;;;0101;U.S. President & Vice President;58A;0301;Chase Oliver and Mike ter Maat;;;LIB;11;17;82;0.50;16380
-MN;;;0101;U.S. President & Vice President;58A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;11;17;110;0.67;16380
-MN;;;0101;U.S. President & Vice President;58A;0501;Jill Stein and Samson Kpadenou;;;G;11;17;75;0.46;16380
-MN;;;0101;U.S. President & Vice President;58A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;11;17;14;0.09;16380
-MN;;;0101;U.S. President & Vice President;58A;0701;Rachele Fruit and Dennis Richter;;;SWP;11;17;0;0.00;16380
-MN;;;0101;U.S. President & Vice President;58A;0801;Cornel West and Melina Abdullah;;;JFA;11;17;15;0.09;16380
-MN;;;0101;U.S. President & Vice President;58A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;11;17;16;0.10;16380
-MN;;;0101;U.S. President & Vice President;58A;9901;WRITE-IN;;;WI;11;17;71;0.43;16380
+MN;;;0101;U.S. President & Vice President;58A;0101;Donald J. Trump and JD Vance;;;R;12;17;6920;38.42;18013
+MN;;;0101;U.S. President & Vice President;58A;0201;Kamala D. Harris and Tim Walz;;;DFL;12;17;10661;59.19;18013
+MN;;;0101;U.S. President & Vice President;58A;0301;Chase Oliver and Mike ter Maat;;;LIB;12;17;89;0.49;18013
+MN;;;0101;U.S. President & Vice President;58A;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;12;17;132;0.73;18013
+MN;;;0101;U.S. President & Vice President;58A;0501;Jill Stein and Samson Kpadenou;;;G;12;17;79;0.44;18013
+MN;;;0101;U.S. President & Vice President;58A;0601;Claudia De la Cruz and Karina Garcia;;;SLP;12;17;15;0.08;18013
+MN;;;0101;U.S. President & Vice President;58A;0701;Rachele Fruit and Dennis Richter;;;SWP;12;17;1;0.01;18013
+MN;;;0101;U.S. President & Vice President;58A;0801;Cornel West and Melina Abdullah;;;JFA;12;17;15;0.08;18013
+MN;;;0101;U.S. President & Vice President;58A;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;12;17;18;0.10;18013
+MN;;;0101;U.S. President & Vice President;58A;9901;WRITE-IN;;;WI;12;17;83;0.46;18013
 MN;;;0101;U.S. President & Vice President;58B;0101;Donald J. Trump and JD Vance;;;R;1;28;5;55.56;9
 MN;;;0101;U.S. President & Vice President;58B;0201;Kamala D. Harris and Tim Walz;;;DFL;1;28;4;44.44;9
 MN;;;0101;U.S. President & Vice President;58B;0301;Chase Oliver and Mike ter Maat;;;LIB;1;28;0;0.00;9
