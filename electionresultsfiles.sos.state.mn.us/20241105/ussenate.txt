@@ -1,5 +1,5 @@
-MN;;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;101;4103;491;2.00;24580
-MN;;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;101;4103;9187;37.38;24580
-MN;;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;101;4103;366;1.49;24580
-MN;;;0102;U.S. Senator;;0104;Royce White;;;R;101;4103;14524;59.09;24580
-MN;;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;101;4103;12;0.05;24580
+MN;;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;137;4103;914;1.76;51817
+MN;;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;137;4103;23825;45.98;51817
+MN;;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;137;4103;743;1.43;51817
+MN;;;0102;U.S. Senator;;0104;Royce White;;;R;137;4103;26298;50.75;51817
+MN;;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;137;4103;37;0.07;51817
