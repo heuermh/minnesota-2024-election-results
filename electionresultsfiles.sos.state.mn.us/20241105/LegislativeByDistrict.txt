@@ -150,9 +150,9 @@ MN;;;0236;State Representative District 25A;25A;9901;WRITE-IN;;;WI;28;28;29;0.12
 MN;;;0237;State Representative District 25B;25B;0201;Andy Smith;;;DFL;28;28;12849;64.01;20073
 MN;;;0237;State Representative District 25B;25B;0102;Wes Lund;;;R;28;28;7184;35.79;20073
 MN;;;0237;State Representative District 25B;25B;9901;WRITE-IN;;;WI;28;28;40;0.20;20073
-MN;;;0238;State Representative District 26A;26A;0101;Aaron Repinski;;;R;37;38;11980;53.43;22420
-MN;;;0238;State Representative District 26A;26A;0202;Sarah Kruger;;;DFL;37;38;10391;46.35;22420
-MN;;;0238;State Representative District 26A;26A;9901;WRITE-IN;;;WI;37;38;49;0.22;22420
+MN;;;0238;State Representative District 26A;26A;0101;Aaron Repinski;;;R;38;38;12241;52.74;23209
+MN;;;0238;State Representative District 26A;26A;0202;Sarah Kruger;;;DFL;38;38;10916;47.03;23209
+MN;;;0238;State Representative District 26A;26A;9901;WRITE-IN;;;WI;38;38;52;0.22;23209
 MN;;;0239;State Representative District 26B;26B;0101;Gregory M. Davids;;;R;70;70;14946;64.00;23353
 MN;;;0239;State Representative District 26B;26B;0202;Allie Wolf;;;DFL;70;70;8352;35.76;23353
 MN;;;0239;State Representative District 26B;26B;9901;WRITE-IN;;;WI;70;70;55;0.24;23353

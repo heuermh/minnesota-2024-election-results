@@ -1,6 +1,6 @@
-MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;748;749;157592;41.50;379761
-MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;748;749;221870;58.42;379761
-MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;748;749;299;0.08;379761
+MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;749;749;158060;41.54;380496
+MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;749;749;222137;58.38;380496
+MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;749;749;299;0.08;380496
 MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;258;258;9490;2.27;417329
 MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;258;258;175611;42.08;417329
 MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;258;258;231774;55.54;417329
