@@ -89,15 +89,15 @@ MN;25;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;38;40;14;0.05;26
 MN;26;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;23;23;1129;32.70;3453
 MN;26;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;23;23;2324;67.30;3453
 MN;26;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;23;23;0;0.00;3453
-MN;27;;0106;U.S. Representative District 3;3;0201;Kelly Morrison;;;DFL;198;199;216416;59.08;366310
-MN;27;;0106;U.S. Representative District 3;3;0102;Tad Jude;;;R;198;199;149470;40.80;366310
-MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;198;199;424;0.12;366310
-MN;27;;0108;U.S. Representative District 5;5;0101;Dalia Al-Aqidi;;;R;195;195;75282;23.37;322140
-MN;27;;0108;U.S. Representative District 5;5;0202;Ilhan Omar;;;DFL;195;195;243330;75.54;322140
-MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;195;195;3528;1.10;322140
-MN;27;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;2;2;411;67.93;605
-MN;27;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;2;2;192;31.74;605
-MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;2;2;2;0.33;605
+MN;27;;0106;U.S. Representative District 3;3;0201;Kelly Morrison;;;DFL;199;199;217268;59.11;367596
+MN;27;;0106;U.S. Representative District 3;3;0102;Tad Jude;;;R;199;199;149902;40.78;367596
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;199;199;426;0.12;367596
+MN;27;;0108;U.S. Representative District 5;5;0101;Dalia Al-Aqidi;;;R;195;195;75507;23.36;323204
+MN;27;;0108;U.S. Representative District 5;5;0202;Ilhan Omar;;;DFL;195;195;244159;75.54;323204
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;195;195;3538;1.09;323204
+MN;27;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;2;2;411;67.82;606
+MN;27;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;2;2;193;31.85;606
+MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;2;2;2;0.33;606
 MN;28;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;27;27;4373;39.46;11083
 MN;28;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;27;27;6702;60.47;11083
 MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;27;27;8;0.07;11083
@@ -168,9 +168,9 @@ MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;16;0.09;17
 MN;49;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;48;48;4125;21.02;19626
 MN;49;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;48;48;15472;78.83;19626
 MN;49;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;48;48;29;0.15;19626
-MN;50;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;19;39;8678;48.96;17725
-MN;50;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;19;39;9041;51.01;17725
-MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;19;39;6;0.03;17725
+MN;50;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;28;39;9288;47.18;19685
+MN;50;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;28;39;10390;52.78;19685
+MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;28;39;7;0.04;19685
 MN;51;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;29;29;1234;26.64;4632
 MN;51;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;29;29;3396;73.32;4632
 MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;29;29;2;0.04;4632
@@ -192,9 +192,9 @@ MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;91;91;57;0.16;35
 MN;57;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;31;31;2350;32.72;7182
 MN;57;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;31;31;4823;67.15;7182
 MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;31;31;9;0.13;7182
-MN;58;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;44;47;4614;32.82;14058
-MN;58;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;44;47;9436;67.12;14058
-MN;58;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;44;47;8;0.06;14058
+MN;58;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;46;47;4641;32.74;14176
+MN;58;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;46;47;9527;67.21;14176
+MN;58;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;46;47;8;0.06;14176
 MN;59;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;22;22;1109;23.55;4710
 MN;59;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;22;22;3595;76.33;4710
 MN;59;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;22;22;6;0.13;4710
@@ -232,9 +232,9 @@ MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;24;24;4;0.08;523
 MN;68;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;44;44;1880;22.63;8307
 MN;68;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;44;44;6421;77.30;8307
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;6;0.07;8307
-MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;141;168;63210;55.46;113970
-MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;141;168;50636;44.43;113970
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;141;168;124;0.11;113970
+MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;156;168;64154;55.20;116218
+MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;156;168;51937;44.69;116218
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;156;168;127;0.11;116218
 MN;70;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;54;54;2159;2.45;87988
 MN;70;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;54;54;43066;48.95;87988
 MN;70;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;54;54;42682;48.51;87988
