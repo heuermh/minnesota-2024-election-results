@@ -4119,77 +4119,77 @@ MN;50;;8419;Judge - 3rd District Court 20;03;9001;Debra A. Groehler;;;NP;0;39;0;
 MN;50;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;0;39;0;0.00;0
 MN;50;;8423;Judge - 3rd District Court 24;03;9001;Christa M. Daily;;;NP;0;39;0;0.00;0
 MN;50;;8423;Judge - 3rd District Court 24;03;9901;WRITE-IN;;;WI;0;39;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;0;29;0;0.00;0
-MN;51;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;29;0;0.00;0
-MN;51;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;29;0;0.00;0
-MN;51;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;29;0;0.00;0
-MN;51;;0102;U.S. Senator;;0104;Royce White;;;R;0;29;0;0.00;0
-MN;51;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;0;29;0;0.00;0
-MN;51;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;0;29;0;0.00;0
-MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0228;State Representative District 21A;21A;1301;Creedence Matthew Petroff;;;IA;0;29;0;0.00;0
-MN;51;;0228;State Representative District 21A;21A;0102;Joe Schomacker;;;R;0;29;0;0.00;0
-MN;51;;0228;State Representative District 21A;21A;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9001;YES;;;NP;0;29;0;0.00;0
-MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9002;NO;;;NP;0;29;0;0.00;0
-MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9003;ESTIMATED BLANKS;;;NP;0;29;0;0.00;0
-MN;51;;0391;County Commissioner District 1;01;9001;Loy Woelber;;;NP;0;9;0;0.00;0
-MN;51;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;9;0;0.00;0
-MN;51;;0392;County Commissioner District 2;02;9002;Trevor J. Humphrey;;;NP;0;9;0;0.00;0
-MN;51;;0392;County Commissioner District 2;02;9003;Mark K. Carlson;;;NP;0;9;0;0.00;0
-MN;51;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;0;9;0;0.00;0
+MN;51;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;19;29;1300;74.00;1763
+MN;51;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;19;29;431;24.00;1763
+MN;51;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;19;29;7;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;19;29;18;1.00;1763
+MN;51;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;19;29;1;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;19;29;0;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;19;29;0;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;19;29;0;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;19;29;1;0.00;1763
+MN;51;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;19;29;5;0.00;1763
+MN;51;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;19;29;15;1.00;1718
+MN;51;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;19;29;580;34.00;1718
+MN;51;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;19;29;24;1.00;1718
+MN;51;;0102;U.S. Senator;;0104;Royce White;;;R;19;29;1098;64.00;1718
+MN;51;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;29;1;0.00;1718
+MN;51;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;19;29;393;23.00;1695
+MN;51;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;19;29;1301;77.00;1695
+MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;19;29;1;0.00;1695
+MN;51;;0228;State Representative District 21A;21A;1301;Creedence Matthew Petroff;;;IA;19;29;246;15.00;1672
+MN;51;;0228;State Representative District 21A;21A;0102;Joe Schomacker;;;R;19;29;1420;85.00;1672
+MN;51;;0228;State Representative District 21A;21A;9901;WRITE-IN;;;WI;19;29;6;0.00;1672
+MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9001;YES;;;NP;19;29;997;57.00;1763
+MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9002;NO;;;NP;19;29;669;38.00;1763
+MN;51;;0351;CONSTITUTIONAL AMENDMENT 1;;9003;ESTIMATED BLANKS;;;NP;19;29;97;6.00;1763
+MN;51;;0391;County Commissioner District 1;01;9001;Loy Woelber;;;NP;6;9;492;99.00;496
+MN;51;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;6;9;4;1.00;496
+MN;51;;0392;County Commissioner District 2;02;9002;Trevor J. Humphrey;;;NP;7;9;94;17.00;548
+MN;51;;0392;County Commissioner District 2;02;9003;Mark K. Carlson;;;NP;7;9;453;83.00;548
+MN;51;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;7;9;1;0.00;548
 MN;51;;0395;County Commissioner District 5;05;9001;Roger Zins;;;NP;0;2;0;0.00;0
 MN;51;;0395;County Commissioner District 5;05;9002;Randy Donahue;;;NP;0;2;0;0.00;0
 MN;51;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9001;Jason Miller;;;NP;0;29;0;0.00;0
-MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0434;Soil and Water Supervisor District 4;5101;9001;Mona Henkels;;;NP;0;29;0;0.00;0
-MN;51;;0434;Soil and Water Supervisor District 4;5101;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;0435;Soil and Water Supervisor District 5;5101;9001;Karen Hurd;;;NP;0;29;0;0.00;0
-MN;51;;0435;Soil and Water Supervisor District 5;5101;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;0;29;0;0.00;0
-MN;51;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;0;29;0;0.00;0
-MN;51;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;0;29;0;0.00;0
-MN;51;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;0;29;0;0.00;0
-MN;51;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;0;29;0;0.00;0
-MN;51;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;0;29;0;0.00;0
-MN;51;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;0;29;0;0.00;0
-MN;51;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;0;29;0;0.00;0
-MN;51;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;0;29;0;0.00;0
-MN;51;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;0;29;0;0.00;0
-MN;51;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;0;29;0;0.00;0
-MN;51;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;0;29;0;0.00;0
-MN;51;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;0;29;0;0.00;0
-MN;51;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;8606;Judge - 5th District Court 7;05;9001;Mark E. Betters;;;NP;0;29;0;0.00;0
-MN;51;;8606;Judge - 5th District Court 7;05;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;8609;Judge - 5th District Court 10;05;9001;Kristine A. Weeks;;;NP;0;29;0;0.00;0
-MN;51;;8609;Judge - 5th District Court 10;05;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;8613;Judge - 5th District Court 14;05;9001;Krista J. Jass;;;NP;0;29;0;0.00;0
-MN;51;;8613;Judge - 5th District Court 14;05;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;8616;Judge - 5th District Court 17;05;9001;Michael D. Trushenski;;;NP;0;29;0;0.00;0
-MN;51;;8616;Judge - 5th District Court 17;05;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;51;;8617;Judge - 5th District Court 18;05;9001;Andrea J. Lieser;;;NP;0;29;0;0.00;0
-MN;51;;8617;Judge - 5th District Court 18;05;9901;WRITE-IN;;;WI;0;29;0;0.00;0
+MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9001;Jason Miller;;;NP;19;29;1429;100.00;1436
+MN;51;;0432;Special Election for Soil and Water Supervisor District 2;5101;9901;WRITE-IN;;;WI;19;29;7;0.00;1436
+MN;51;;0434;Soil and Water Supervisor District 4;5101;9001;Mona Henkels;;;NP;19;29;1408;100.00;1412
+MN;51;;0434;Soil and Water Supervisor District 4;5101;9901;WRITE-IN;;;WI;19;29;4;0.00;1412
+MN;51;;0435;Soil and Water Supervisor District 5;5101;9001;Karen Hurd;;;NP;19;29;1439;100.00;1444
+MN;51;;0435;Soil and Water Supervisor District 5;5101;9901;WRITE-IN;;;WI;19;29;5;0.00;1444
+MN;51;;7001;Chief Justice - Supreme Court;;9001;Natalie E. Hudson;;;NP;19;29;690;48.00;1423
+MN;51;;7001;Chief Justice - Supreme Court;;9002;Stephen A Emery;;;NP;19;29;732;51.00;1423
+MN;51;;7001;Chief Justice - Supreme Court;;9901;WRITE-IN;;;WI;19;29;1;0.00;1423
+MN;51;;7006;Associate Justice - Supreme Court 5;;9001;Anne McKeig;;;NP;19;29;1174;100.00;1179
+MN;51;;7006;Associate Justice - Supreme Court 5;;9901;WRITE-IN;;;WI;19;29;5;0.00;1179
+MN;51;;7007;Associate Justice - Supreme Court 6;;9001;Karl Procaccini;;;NP;19;29;595;42.00;1411
+MN;51;;7007;Associate Justice - Supreme Court 6;;9002;Matthew R. Hanson;;;NP;19;29;814;58.00;1411
+MN;51;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;19;29;2;0.00;1411
+MN;51;;7011;Judge - Court of Appeals 2;;9001;Jon Schmidt;;;NP;19;29;1170;99.00;1181
+MN;51;;7011;Judge - Court of Appeals 2;;9901;WRITE-IN;;;WI;19;29;11;1.00;1181
+MN;51;;7012;Judge - Court of Appeals 3;;9001;Sarah Wheelock;;;NP;19;29;1168;99.00;1177
+MN;51;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;19;29;9;1.00;1177
+MN;51;;7013;Judge - Court of Appeals 4;;9001;Tracy Smith;;;NP;19;29;1185;100.00;1189
+MN;51;;7013;Judge - Court of Appeals 4;;9901;WRITE-IN;;;WI;19;29;4;0.00;1189
+MN;51;;7015;Judge - Court of Appeals 6;;9001;Renee L. Worke;;;NP;19;29;1191;100.00;1195
+MN;51;;7015;Judge - Court of Appeals 6;;9901;WRITE-IN;;;WI;19;29;4;0.00;1195
+MN;51;;7017;Judge - Court of Appeals 8;;9001;Keala Christian Ede;;;NP;19;29;1165;99.00;1175
+MN;51;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;19;29;10;1.00;1175
+MN;51;;7021;Judge - Court of Appeals 12;;9001;Jonathan R. Woolsey;;;NP;19;29;660;48.00;1372
+MN;51;;7021;Judge - Court of Appeals 12;;9002;Diane B. Bratvold;;;NP;19;29;711;52.00;1372
+MN;51;;7021;Judge - Court of Appeals 12;;9901;WRITE-IN;;;WI;19;29;1;0.00;1372
+MN;51;;7023;Judge - Court of Appeals 14;;9001;Elise Larson;;;NP;19;29;1172;99.00;1181
+MN;51;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN;;;WI;19;29;9;1.00;1181
+MN;51;;8606;Judge - 5th District Court 7;05;9001;Mark E. Betters;;;NP;19;29;1178;99.00;1185
+MN;51;;8606;Judge - 5th District Court 7;05;9901;WRITE-IN;;;WI;19;29;7;1.00;1185
+MN;51;;8609;Judge - 5th District Court 10;05;9001;Kristine A. Weeks;;;NP;19;29;1176;100.00;1181
+MN;51;;8609;Judge - 5th District Court 10;05;9901;WRITE-IN;;;WI;19;29;5;0.00;1181
+MN;51;;8613;Judge - 5th District Court 14;05;9001;Krista J. Jass;;;NP;19;29;1190;100.00;1193
+MN;51;;8613;Judge - 5th District Court 14;05;9901;WRITE-IN;;;WI;19;29;3;0.00;1193
+MN;51;;8616;Judge - 5th District Court 17;05;9001;Michael D. Trushenski;;;NP;19;29;1180;99.00;1188
+MN;51;;8616;Judge - 5th District Court 17;05;9901;WRITE-IN;;;WI;19;29;8;1.00;1188
+MN;51;;8617;Judge - 5th District Court 18;05;9001;Andrea J. Lieser;;;NP;19;29;1171;99.00;1178
+MN;51;;8617;Judge - 5th District Court 18;05;9901;WRITE-IN;;;WI;19;29;7;1.00;1178
 MN;52;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;0;26;0;0.00;0
 MN;52;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;0;26;0;0.00;0
 MN;52;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;0;26;0;0.00;0
