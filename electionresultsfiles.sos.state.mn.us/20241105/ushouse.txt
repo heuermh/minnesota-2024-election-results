@@ -14,12 +14,12 @@ MN;;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;212;0;0.00;0
 MN;;;0108;U.S. Representative District 5;5;0101;Dalia Al-Aqidi;;;R;0;217;0;0.00;0
 MN;;;0108;U.S. Representative District 5;5;0202;Ilhan Omar;;;DFL;0;217;0;0.00;0
 MN;;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;217;0;0.00;0
-MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;0;274;0;0.00;0
-MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;0;274;0;0.00;0
-MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;274;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;1;274;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;1;274;0;0.00;0
+MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;274;0;0.00;0
 MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;0;1329;0;0.00;0
 MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;0;1329;0;0.00;0
 MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;0;0.00;0
-MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;0;834;0;0.00;0
-MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;0;834;0;0.00;0
-MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;834;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;2;834;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;2;834;0;0.00;0
+MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;2;834;0;0.00;0

@@ -173,11 +173,11 @@ MN;35;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;39;0;0.00;0
 MN;35;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;39;0;0.00;0
 MN;35;;0102;U.S. Senator;;0104;Royce White;;;R;0;39;0;0.00;0
 MN;35;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;39;0;0.00;0
-MN;36;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;22;0;0.00;0
-MN;36;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;22;0;0.00;0
-MN;36;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;22;0;0.00;0
-MN;36;;0102;U.S. Senator;;0104;Royce White;;;R;0;22;0;0.00;0
-MN;36;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;36;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;1;22;0;0.00;0
+MN;36;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;1;22;0;0.00;0
+MN;36;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;1;22;0;0.00;0
+MN;36;;0102;U.S. Senator;;0104;Royce White;;;R;1;22;0;0.00;0
+MN;36;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;22;0;0.00;0
 MN;37;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;29;0;0.00;0
 MN;37;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;29;0;0.00;0
 MN;37;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;29;0;0.00;0
@@ -188,11 +188,11 @@ MN;38;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;19;0;0.00;0
 MN;38;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;19;0;0.00;0
 MN;38;;0102;U.S. Senator;;0104;Royce White;;;R;0;19;0;0.00;0
 MN;38;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;19;0;0.00;0
-MN;39;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;17;0;0.00;0
-MN;39;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;17;0;0.00;0
-MN;39;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;17;0;0.00;0
-MN;39;;0102;U.S. Senator;;0104;Royce White;;;R;0;17;0;0.00;0
-MN;39;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;17;0;0.00;0
+MN;39;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;1;17;0;0.00;0
+MN;39;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;1;17;0;0.00;0
+MN;39;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;1;17;0;0.00;0
+MN;39;;0102;U.S. Senator;;0104;Royce White;;;R;1;17;0;0.00;0
+MN;39;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;17;0;0.00;0
 MN;40;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;26;0;0.00;0
 MN;40;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;26;0;0.00;0
 MN;40;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;26;0;0.00;0
@@ -358,11 +358,11 @@ MN;72;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;25;0;0.00;0
 MN;72;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;25;0;0.00;0
 MN;72;;0102;U.S. Senator;;0104;Royce White;;;R;0;25;0;0.00;0
 MN;72;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;25;0;0.00;0
-MN;73;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;98;0;0.00;0
-MN;73;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;98;0;0.00;0
-MN;73;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;98;0;0.00;0
-MN;73;;0102;U.S. Senator;;0104;Royce White;;;R;0;98;0;0.00;0
-MN;73;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;98;0;0.00;0
+MN;73;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;1;98;0;0.00;0
+MN;73;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;1;98;0;0.00;0
+MN;73;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;1;98;0;0.00;0
+MN;73;;0102;U.S. Senator;;0104;Royce White;;;R;1;98;0;0.00;0
+MN;73;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;98;0;0.00;0
 MN;74;;0102;U.S. Senator;;0301;Rebecca Whiting;;;LIB;0;26;0;0.00;0
 MN;74;;0102;U.S. Senator;;0202;Amy Klobuchar;;;DFL;0;26;0;0.00;0
 MN;74;;0102;U.S. Senator;;1303;Joyce Lynne Lacey;;;IA;0;26;0;0.00;0
