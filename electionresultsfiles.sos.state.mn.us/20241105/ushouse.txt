@@ -1,25 +1,25 @@
-MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;577;749;98836;37.88;260950
-MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;577;749;161911;62.05;260950
-MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;577;749;203;0.08;260950
-MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;257;258;8437;2.25;374523
-MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;257;258;157454;42.04;374523
-MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;257;258;208221;55.60;374523
-MN;;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;257;258;411;0.11;374523
+MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;577;749;98984;37.83;261669
+MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;577;749;162482;62.09;261669
+MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;577;749;203;0.08;261669
+MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;257;258;8438;2.25;374539
+MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;257;258;157460;42.04;374539
+MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;257;258;208230;55.60;374539
+MN;;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;257;258;411;0.11;374539
 MN;;;0106;U.S. Representative District 3;3;0201;Kelly Morrison;;;DFL;198;230;216416;59.08;366310
 MN;;;0106;U.S. Representative District 3;3;0102;Tad Jude;;;R;198;230;149470;40.80;366310
 MN;;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;198;230;424;0.12;366310
-MN;;;0107;U.S. Representative District 4;4;0101;May Lor Xiong;;;R;99;212;68396;37.03;184716
-MN;;;0107;U.S. Representative District 4;4;0202;Betty McCollum;;;DFL;99;212;116048;62.83;184716
-MN;;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;99;212;272;0.15;184716
+MN;;;0107;U.S. Representative District 4;4;0101;May Lor Xiong;;;R;99;212;68426;37.03;184791
+MN;;;0107;U.S. Representative District 4;4;0202;Betty McCollum;;;DFL;99;212;116093;62.82;184791
+MN;;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;99;212;272;0.15;184791
 MN;;;0108;U.S. Representative District 5;5;0101;Dalia Al-Aqidi;;;R;195;217;75282;23.37;322140
 MN;;;0108;U.S. Representative District 5;5;0202;Ilhan Omar;;;DFL;195;217;243330;75.54;322140
 MN;;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;195;217;3528;1.10;322140
-MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;150;274;120617;66.07;182573
-MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;150;274;61624;33.75;182573
-MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;150;274;332;0.18;182573
-MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;1198;1329;106140;29.84;355736
-MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;1198;1329;249194;70.05;355736
-MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1198;1329;402;0.11;355736
-MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;704;834;137677;39.74;346407
-MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;704;834;208341;60.14;346407
-MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;704;834;389;0.11;346407
+MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;154;274;125416;66.00;190031
+MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;154;274;64274;33.82;190031
+MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;154;274;341;0.18;190031
+MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;1209;1329;107944;29.83;361879
+MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;1209;1329;253526;70.06;361879
+MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1209;1329;409;0.11;361879
+MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;709;834;137838;39.71;347069
+MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;709;834;208842;60.17;347069
+MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;709;834;389;0.11;347069
