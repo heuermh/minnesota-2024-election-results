@@ -1,10 +1,10 @@
-MN;;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;3238;4103;1129956;46.96;2406002
-MN;;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;3238;4103;1215967;50.54;2406002
-MN;;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;3238;4103;11461;0.48;2406002
-MN;;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;3238;4103;18224;0.76;2406002
-MN;;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;3238;4103;11856;0.49;2406002
-MN;;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;3238;4103;2681;0.11;2406002
-MN;;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;3238;4103;739;0.03;2406002
-MN;;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;3238;4103;2730;0.11;2406002
-MN;;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;3238;4103;2508;0.10;2406002
-MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;3238;4103;9880;0.41;2406002
+MN;;;0101;U.S. President & Vice President;;0101;Donald J. Trump and JD Vance;;;R;3347;4103;1158067;47.04;2461761
+MN;;;0101;U.S. President & Vice President;;0201;Kamala D. Harris and Tim Walz;;;DFL;3347;4103;1242684;50.48;2461761
+MN;;;0101;U.S. President & Vice President;;0301;Chase Oliver and Mike ter Maat;;;LIB;3347;4103;11679;0.47;2461761
+MN;;;0101;U.S. President & Vice President;;0401;Robert F. Kennedy Jr. and Nicole Shanahan;;;WTP;3347;4103;18647;0.76;2461761
+MN;;;0101;U.S. President & Vice President;;0501;Jill Stein and Samson Kpadenou;;;G;3347;4103;11992;0.49;2461761
+MN;;;0101;U.S. President & Vice President;;0601;Claudia De la Cruz and Karina Garcia;;;SLP;3347;4103;2691;0.11;2461761
+MN;;;0101;U.S. President & Vice President;;0701;Rachele Fruit and Dennis Richter;;;SWP;3347;4103;719;0.03;2461761
+MN;;;0101;U.S. President & Vice President;;0801;Cornel West and Melina Abdullah;;;JFA;3347;4103;2722;0.11;2461761
+MN;;;0101;U.S. President & Vice President;;0901;Shiva Ayyadurai and Crystal Ellis;;;IND;3347;4103;2522;0.10;2461761
+MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;3347;4103;10038;0.41;2461761
