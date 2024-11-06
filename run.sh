@@ -1,20 +1,5 @@
 #!/bin/bash
 
-/opt/homebrew/bin/wget \
-    --mirror \
-    --no-parent \
-    "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=170&scenario=AllwithoutJudicial&electionDate=11%2F5%2F2024%2012%3A00%3A00%20AM"
-
-/opt/homebrew/bin/wget \
-    --mirror \
-    --no-parent \
-    "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=170&scenario=USRepresentative"
-
-/opt/homebrew/bin/wget \
-    --mirror \
-    --no-parent \
-    "https://electionresults.sos.state.mn.us/Select/MediaFiles/Index?ersElectionId=170"
-
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/USPres.txt
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/USPresCG.txt
 /opt/homebrew/bin/wget --mirror https://electionresultsfiles.sos.state.mn.us/20241105/USPresLG.txt

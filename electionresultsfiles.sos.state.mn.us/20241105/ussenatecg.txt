@@ -1,8 +1,8 @@
-MN;;;0102;U.S. Senator;01;0301;Rebecca Whiting;;;LIB;0;749;0;0.00;0
-MN;;;0102;U.S. Senator;01;0202;Amy Klobuchar;;;DFL;0;749;0;0.00;0
-MN;;;0102;U.S. Senator;01;1303;Joyce Lynne Lacey;;;IA;0;749;0;0.00;0
-MN;;;0102;U.S. Senator;01;0104;Royce White;;;R;0;749;0;0.00;0
-MN;;;0102;U.S. Senator;01;9901;WRITE-IN;;;WI;0;749;0;0.00;0
+MN;;;0102;U.S. Senator;01;0301;Rebecca Whiting;;;LIB;2;749;0;0.00;111
+MN;;;0102;U.S. Senator;01;0202;Amy Klobuchar;;;DFL;2;749;21;18.92;111
+MN;;;0102;U.S. Senator;01;1303;Joyce Lynne Lacey;;;IA;2;749;0;0.00;111
+MN;;;0102;U.S. Senator;01;0104;Royce White;;;R;2;749;90;81.08;111
+MN;;;0102;U.S. Senator;01;9901;WRITE-IN;;;WI;2;749;0;0.00;111
 MN;;;0102;U.S. Senator;02;0301;Rebecca Whiting;;;LIB;1;258;0;0.00;0
 MN;;;0102;U.S. Senator;02;0202;Amy Klobuchar;;;DFL;1;258;0;0.00;0
 MN;;;0102;U.S. Senator;02;1303;Joyce Lynne Lacey;;;IA;1;258;0;0.00;0
@@ -28,11 +28,11 @@ MN;;;0102;U.S. Senator;06;0202;Amy Klobuchar;;;DFL;3;274;0;0.00;0
 MN;;;0102;U.S. Senator;06;1303;Joyce Lynne Lacey;;;IA;3;274;0;0.00;0
 MN;;;0102;U.S. Senator;06;0104;Royce White;;;R;3;274;0;0.00;0
 MN;;;0102;U.S. Senator;06;9901;WRITE-IN;;;WI;3;274;0;0.00;0
-MN;;;0102;U.S. Senator;07;0301;Rebecca Whiting;;;LIB;20;1329;15;0.87;1718
-MN;;;0102;U.S. Senator;07;0202;Amy Klobuchar;;;DFL;20;1329;580;33.76;1718
-MN;;;0102;U.S. Senator;07;1303;Joyce Lynne Lacey;;;IA;20;1329;24;1.40;1718
-MN;;;0102;U.S. Senator;07;0104;Royce White;;;R;20;1329;1098;63.91;1718
-MN;;;0102;U.S. Senator;07;9901;WRITE-IN;;;WI;20;1329;1;0.06;1718
+MN;;;0102;U.S. Senator;07;0301;Rebecca Whiting;;;LIB;56;1329;31;0.95;3269
+MN;;;0102;U.S. Senator;07;0202;Amy Klobuchar;;;DFL;56;1329;1281;39.19;3269
+MN;;;0102;U.S. Senator;07;1303;Joyce Lynne Lacey;;;IA;56;1329;39;1.19;3269
+MN;;;0102;U.S. Senator;07;0104;Royce White;;;R;56;1329;1917;58.64;3269
+MN;;;0102;U.S. Senator;07;9901;WRITE-IN;;;WI;56;1329;1;0.03;3269
 MN;;;0102;U.S. Senator;08;0301;Rebecca Whiting;;;LIB;2;834;0;0.00;0
 MN;;;0102;U.S. Senator;08;0202;Amy Klobuchar;;;DFL;2;834;0;0.00;0
 MN;;;0102;U.S. Senator;08;1303;Joyce Lynne Lacey;;;IA;2;834;0;0.00;0

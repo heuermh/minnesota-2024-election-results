@@ -1,6 +1,6 @@
-MN;;;0188;State Representative District 1A;1A;0201;James Sceville;;;DFL;1;174;0;0.00;0
-MN;;;0188;State Representative District 1A;1A;0102;John Burkel;;;R;1;174;0;0.00;0
-MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;1;174;0;0.00;0
+MN;;;0188;State Representative District 1A;1A;0201;James Sceville;;;DFL;37;174;429;27.75;1546
+MN;;;0188;State Representative District 1A;1A;0102;John Burkel;;;R;37;174;1117;72.25;1546
+MN;;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;37;174;0;0.00;1546
 MN;;;0189;State Representative District 1B;1B;0101;Steve Gander;;;R;0;141;0;0.00;0
 MN;;;0189;State Representative District 1B;1B;0202;Mike Christopherson;;;DFL;0;141;0;0.00;0
 MN;;;0189;State Representative District 1B;1B;9901;WRITE-IN;;;WI;0;141;0;0.00;0
@@ -120,9 +120,9 @@ MN;;;0226;State Representative District 20A;20A;9901;WRITE-IN;;;WI;0;40;0;0.00;0
 MN;;;0227;State Representative District 20B;20B;0201;Michael Hutchinson;;;DFL;0;51;0;0.00;0
 MN;;;0227;State Representative District 20B;20B;0102;Steven E Jacob;;;R;0;51;0;0.00;0
 MN;;;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;0;51;0;0.00;0
-MN;;;0228;State Representative District 21A;21A;1301;Creedence Matthew Petroff;;;IA;19;127;246;14.71;1672
-MN;;;0228;State Representative District 21A;21A;0102;Joe Schomacker;;;R;19;127;1420;84.93;1672
-MN;;;0228;State Representative District 21A;21A;9901;WRITE-IN;;;WI;19;127;6;0.36;1672
+MN;;;0228;State Representative District 21A;21A;1301;Creedence Matthew Petroff;;;IA;20;127;252;14.15;1781
+MN;;;0228;State Representative District 21A;21A;0102;Joe Schomacker;;;R;20;127;1523;85.51;1781
+MN;;;0228;State Representative District 21A;21A;9901;WRITE-IN;;;WI;20;127;6;0.34;1781
 MN;;;0229;State Representative District 21B;21B;0101;Marj J Fogelman;;;R;0;83;0;0.00;0
 MN;;;0229;State Representative District 21B;21B;0202;Jon Wilson;;;DFL;0;83;0;0.00;0
 MN;;;0229;State Representative District 21B;21B;9901;WRITE-IN;;;WI;0;83;0;0.00;0
@@ -138,9 +138,9 @@ MN;;;0232;State Representative District 23A;23A;9901;WRITE-IN;;;WI;0;70;0;0.00;0
 MN;;;0233;State Representative District 23B;23B;0101;Patricia Mueller;;;R;0;43;0;0.00;0
 MN;;;0233;State Representative District 23B;23B;0202;Joseph Pacovsky;;;DFL;0;43;0;0.00;0
 MN;;;0233;State Representative District 23B;23B;9901;WRITE-IN;;;WI;0;43;0;0.00;0
-MN;;;0234;State Representative District 24A;24A;0201;Heather Holmes;;;DFL;0;33;0;0.00;0
-MN;;;0234;State Representative District 24A;24A;0102;Duane Quam;;;R;0;33;0;0.00;0
-MN;;;0234;State Representative District 24A;24A;9901;WRITE-IN;;;WI;0;33;0;0.00;0
+MN;;;0234;State Representative District 24A;24A;0201;Heather Holmes;;;DFL;1;33;0;0.00;0
+MN;;;0234;State Representative District 24A;24A;0102;Duane Quam;;;R;1;33;0;0.00;0
+MN;;;0234;State Representative District 24A;24A;9901;WRITE-IN;;;WI;1;33;0;0.00;0
 MN;;;0235;State Representative District 24B;24B;0101;Dan Sepeda;;;R;0;29;0;0.00;0
 MN;;;0235;State Representative District 24B;24B;0202;Tina Liebling;;;DFL;0;29;0;0.00;0
 MN;;;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;0;29;0;0.00;0
