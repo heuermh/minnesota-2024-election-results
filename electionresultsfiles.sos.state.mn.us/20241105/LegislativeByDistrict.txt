@@ -7,9 +7,9 @@ MN;;;0189;State Representative District 1B;1B;9901;WRITE-IN;;;WI;141;141;14;0.07
 MN;;;0190;State Representative District 2A;2A;0101;Bidal Duran Jr;;;R;64;64;11518;51.86;22211
 MN;;;0190;State Representative District 2A;2A;0202;Reed Olson;;;DFL;64;64;10667;48.03;22211
 MN;;;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;64;64;26;0.12;22211
-MN;;;0191;State Representative District 2B;2B;0101;Matt Bliss;;;R;125;125;14373;63.74;22551
-MN;;;0191;State Representative District 2B;2B;0202;Michael Reyes;;;DFL;125;125;8168;36.22;22551
-MN;;;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;125;125;10;0.04;22551
+MN;;;0191;State Representative District 2B;2B;0101;Matt Bliss;;;R;125;125;14372;63.73;22550
+MN;;;0191;State Representative District 2B;2B;0202;Michael Reyes;;;DFL;125;125;8168;36.22;22550
+MN;;;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;125;125;10;0.04;22550
 MN;;;0192;State Representative District 3A;3A;0101;Roger J. Skraba;;;R;101;101;14443;55.54;26007
 MN;;;0192;State Representative District 3A;3A;0202;Harley Droba;;;DFL;101;101;10779;41.45;26007
 MN;;;0192;State Representative District 3A;3A;1203;Rich Tru;;;FPI;101;101;712;2.74;26007
@@ -20,9 +20,9 @@ MN;;;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;31;31;27;0.10;2
 MN;;;0194;State Representative District 4A;4A;0101;Joshua Zincke;;;R;13;13;7822;41.33;18926
 MN;;;0194;State Representative District 4A;4A;0202;Heather M. Keeler;;;DFL;13;13;11072;58.50;18926
 MN;;;0194;State Representative District 4A;4A;9901;WRITE-IN;;;WI;13;13;32;0.17;18926
-MN;;;0195;State Representative District 4B;4B;0101;Jim Joy;;;R;55;55;15277;66.41;23003
-MN;;;0195;State Representative District 4B;4B;0202;Thaddeus Laugisch;;;DFL;55;55;7710;33.52;23003
-MN;;;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;55;55;16;0.07;23003
+MN;;;0195;State Representative District 4B;4B;0101;Jim Joy;;;R;55;55;15273;66.41;22998
+MN;;;0195;State Representative District 4B;4B;0202;Thaddeus Laugisch;;;DFL;55;55;7709;33.52;22998
+MN;;;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;55;55;16;0.07;22998
 MN;;;0196;State Representative District 5A;5A;0101;Krista Knudsen;;;R;78;78;18855;71.34;26428
 MN;;;0196;State Representative District 5A;5A;0202;Brian Hobson;;;DFL;78;78;7551;28.57;26428
 MN;;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;78;78;22;0.08;26428
