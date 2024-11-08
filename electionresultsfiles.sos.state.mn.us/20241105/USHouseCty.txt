@@ -232,16 +232,16 @@ MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;24;24;4;0.08;523
 MN;68;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;44;44;1880;22.63;8307
 MN;68;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;44;44;6421;77.30;8307
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;6;0.07;8307
-MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;168;168;64634;55.08;117338
-MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;168;168;52575;44.81;117338
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;168;168;129;0.11;117338
+MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;168;168;64633;55.08;117334
+MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;168;168;52572;44.81;117334
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;168;168;129;0.11;117334
 MN;70;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;54;54;2159;2.45;87988
 MN;70;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;54;54;43066;48.95;87988
 MN;70;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;54;54;42682;48.51;87988
 MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;54;54;81;0.09;87988
-MN;71;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;35;35;36262;71.69;50579
-MN;71;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;35;35;14144;27.96;50579
-MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;35;35;173;0.34;50579
+MN;71;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;35;35;38731;69.19;55978
+MN;71;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;35;35;17162;30.66;55978
+MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;35;35;85;0.15;55978
 MN;72;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;25;25;2139;25.86;8272
 MN;72;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;25;25;6129;74.09;8272
 MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;25;25;4;0.05;8272
