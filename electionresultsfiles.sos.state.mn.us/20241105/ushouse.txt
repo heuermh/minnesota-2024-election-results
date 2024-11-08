@@ -1,6 +1,6 @@
-MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;749;749;156375;41.41;377607
-MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;749;749;220935;58.51;377607
-MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;749;749;297;0.08;377607
+MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;749;749;156375;41.41;377606
+MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;749;749;220934;58.51;377606
+MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;749;749;297;0.08;377606
 MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;258;258;9490;2.27;417326
 MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;258;258;175609;42.08;417326
 MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;258;258;231773;55.54;417326
@@ -17,9 +17,9 @@ MN;;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;217;217;3769;1.07;
 MN;;;0109;U.S. Representative District 6;6;0101;Tom Emmer;;;R;274;274;260094;62.45;416493
 MN;;;0109;U.S. Representative District 6;6;0202;Jeanne Hendricks;;;DFL;274;274;155836;37.42;416493
 MN;;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;274;274;563;0.14;416493
-MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;1329;1329;114848;29.45;390024
-MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;1329;1329;274742;70.44;390024
-MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1329;1329;434;0.11;390024
+MN;;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;1329;1329;114847;29.45;390023
+MN;;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;1329;1329;274742;70.44;390023
+MN;;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1329;1329;434;0.11;390023
 MN;;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;834;834;176624;41.92;421288
 MN;;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;834;834;244281;57.98;421288
 MN;;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;834;834;383;0.09;421288

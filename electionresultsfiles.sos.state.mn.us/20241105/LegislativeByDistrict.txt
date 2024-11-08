@@ -48,9 +48,9 @@ MN;;;0202;State Representative District 8A;8A;9901;WRITE-IN;;;WI;17;17;29;0.13;2
 MN;;;0203;State Representative District 8B;8B;0101;Shawn Savela;;;R;16;16;7955;31.25;25452
 MN;;;0203;State Representative District 8B;8B;0202;Alicia (Liish) Kozlowski;;;DFL;16;16;17442;68.53;25452
 MN;;;0203;State Representative District 8B;8B;9901;WRITE-IN;;;WI;16;16;55;0.22;25452
-MN;;;0204;State Representative District 9A;9A;0101;Jeff Backer;;;R;106;106;15587;68.75;22671
-MN;;;0204;State Representative District 9A;9A;0202;Michael Ziomko;;;DFL;106;106;7043;31.07;22671
-MN;;;0204;State Representative District 9A;9A;9901;WRITE-IN;;;WI;106;106;41;0.18;22671
+MN;;;0204;State Representative District 9A;9A;0101;Jeff Backer;;;R;106;106;15587;68.76;22670
+MN;;;0204;State Representative District 9A;9A;0202;Michael Ziomko;;;DFL;106;106;7042;31.06;22670
+MN;;;0204;State Representative District 9A;9A;9901;WRITE-IN;;;WI;106;106;41;0.18;22670
 MN;;;0205;State Representative District 9B;9B;0201;Jason Satter;;;DFL;77;77;7661;28.33;27045
 MN;;;0205;State Representative District 9B;9B;0102;Tom Murphy;;;R;77;77;19366;71.61;27045
 MN;;;0205;State Representative District 9B;9B;9901;WRITE-IN;;;WI;77;77;18;0.07;27045
@@ -126,9 +126,9 @@ MN;;;0228;State Representative District 21A;21A;9901;WRITE-IN;;;WI;127;127;67;0.
 MN;;;0229;State Representative District 21B;21B;0101;Marj J Fogelman;;;R;83;83;11983;66.30;18073
 MN;;;0229;State Representative District 21B;21B;0202;Jon Wilson;;;DFL;83;83;6078;33.63;18073
 MN;;;0229;State Representative District 21B;21B;9901;WRITE-IN;;;WI;83;83;12;0.07;18073
-MN;;;0230;State Representative District 22A;22A;0101;Bjorn Olson;;;R;75;75;15700;69.42;22617
-MN;;;0230;State Representative District 22A;22A;0202;Marisa Ulmen;;;DFL;75;75;6896;30.49;22617
-MN;;;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;75;75;21;0.09;22617
+MN;;;0230;State Representative District 22A;22A;0101;Bjorn Olson;;;R;75;75;15699;69.42;22616
+MN;;;0230;State Representative District 22A;22A;0202;Marisa Ulmen;;;DFL;75;75;6896;30.49;22616
+MN;;;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;75;75;21;0.09;22616
 MN;;;0231;State Representative District 22B;22B;0201;Sara Nett-Torgrimson;;;DFL;35;35;7740;31.20;24809
 MN;;;0231;State Representative District 22B;22B;0102;Terry M. Stier;;;R;35;35;17053;68.74;24809
 MN;;;0231;State Representative District 22B;22B;9901;WRITE-IN;;;WI;35;35;16;0.06;24809
