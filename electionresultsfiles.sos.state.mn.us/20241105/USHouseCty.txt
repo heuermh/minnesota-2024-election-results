@@ -183,9 +183,9 @@ MN;53;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;40;40;3;0.04;786
 MN;54;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;33;33;1226;38.51;3184
 MN;54;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;33;33;1953;61.34;3184
 MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;5;0.16;3184
-MN;55;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;110;110;45829;52.15;87879
-MN;55;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;110;110;41968;47.76;87879
-MN;55;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;110;110;82;0.09;87879
+MN;55;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;110;110;45829;52.15;87880
+MN;55;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;110;110;41969;47.76;87880
+MN;55;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;110;110;82;0.09;87880
 MN;56;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;91;91;10999;30.72;35803
 MN;56;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;91;91;24747;69.12;35803
 MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;91;91;57;0.16;35803
@@ -232,9 +232,9 @@ MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;24;24;4;0.08;523
 MN;68;;0110;U.S. Representative District 7;7;0201;AJ (John) Peters;;;DFL;44;44;1880;22.63;8307
 MN;68;;0110;U.S. Representative District 7;7;0102;Michelle Fischbach;;;R;44;44;6421;77.30;8307
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;6;0.07;8307
-MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;168;168;64635;55.08;117340
-MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;168;168;52576;44.81;117340
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;168;168;129;0.11;117340
+MN;69;;0111;U.S. Representative District 8;8;0201;Jen Schultz;;;DFL;168;168;64634;55.08;117338
+MN;69;;0111;U.S. Representative District 8;8;0102;Pete Stauber;;;R;168;168;52575;44.81;117338
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;168;168;129;0.11;117338
 MN;70;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;54;54;2159;2.45;87988
 MN;70;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;54;54;43066;48.95;87988
 MN;70;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;54;54;42682;48.51;87988

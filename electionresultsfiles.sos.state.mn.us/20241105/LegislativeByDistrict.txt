@@ -45,9 +45,9 @@ MN;;;0201;State Representative District 7B;7B;9901;WRITE-IN;;;WI;57;57;23;0.09;2
 MN;;;0202;State Representative District 8A;8A;0101;Mark McGrew;;;R;17;17;6964;31.65;22002
 MN;;;0202;State Representative District 8A;8A;0202;Peter Johnson;;;DFL;17;17;15009;68.22;22002
 MN;;;0202;State Representative District 8A;8A;9901;WRITE-IN;;;WI;17;17;29;0.13;22002
-MN;;;0203;State Representative District 8B;8B;0101;Shawn Savela;;;R;16;16;7956;31.26;25454
-MN;;;0203;State Representative District 8B;8B;0202;Alicia (Liish) Kozlowski;;;DFL;16;16;17443;68.53;25454
-MN;;;0203;State Representative District 8B;8B;9901;WRITE-IN;;;WI;16;16;55;0.22;25454
+MN;;;0203;State Representative District 8B;8B;0101;Shawn Savela;;;R;16;16;7955;31.25;25452
+MN;;;0203;State Representative District 8B;8B;0202;Alicia (Liish) Kozlowski;;;DFL;16;16;17442;68.53;25452
+MN;;;0203;State Representative District 8B;8B;9901;WRITE-IN;;;WI;16;16;55;0.22;25452
 MN;;;0204;State Representative District 9A;9A;0101;Jeff Backer;;;R;106;106;15587;68.75;22671
 MN;;;0204;State Representative District 9A;9A;0202;Michael Ziomko;;;DFL;106;106;7043;31.07;22671
 MN;;;0204;State Representative District 9A;9A;9901;WRITE-IN;;;WI;106;106;41;0.18;22671
@@ -144,9 +144,9 @@ MN;;;0234;State Representative District 24A;24A;9901;WRITE-IN;;;WI;33;33;23;0.09
 MN;;;0235;State Representative District 24B;24B;0101;Dan Sepeda;;;R;29;29;9369;42.10;22253
 MN;;;0235;State Representative District 24B;24B;0202;Tina Liebling;;;DFL;29;29;12863;57.80;22253
 MN;;;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;29;29;21;0.09;22253
-MN;;;0236;State Representative District 25A;25A;0101;Ken Navitsky;;;R;28;28;10259;43.89;23373
-MN;;;0236;State Representative District 25A;25A;0202;Kim Hicks;;;DFL;28;28;13085;55.98;23373
-MN;;;0236;State Representative District 25A;25A;9901;WRITE-IN;;;WI;28;28;29;0.12;23373
+MN;;;0236;State Representative District 25A;25A;0101;Ken Navitsky;;;R;28;28;10260;43.89;23374
+MN;;;0236;State Representative District 25A;25A;0202;Kim Hicks;;;DFL;28;28;13085;55.98;23374
+MN;;;0236;State Representative District 25A;25A;9901;WRITE-IN;;;WI;28;28;29;0.12;23374
 MN;;;0237;State Representative District 25B;25B;0201;Andy Smith;;;DFL;28;28;12847;64.01;20071
 MN;;;0237;State Representative District 25B;25B;0102;Wes Lund;;;R;28;28;7184;35.79;20071
 MN;;;0237;State Representative District 25B;25B;9901;WRITE-IN;;;WI;28;28;40;0.20;20071
