@@ -1,10 +1,10 @@
 MN;;;0104;U.S. Representative District 1;1;0201;Rachel Bohman;;;DFL;749;749;156375;41.41;377606
 MN;;;0104;U.S. Representative District 1;1;0102;Brad Finstad;;;R;749;749;220934;58.51;377606
 MN;;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;749;749;297;0.08;377606
-MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;258;258;9490;2.27;417326
-MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;258;258;175609;42.08;417326
-MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;258;258;231773;55.54;417326
-MN;;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;258;258;454;0.11;417326
+MN;;;0105;U.S. Representative District 2;2;1101;Thomas William Bowman;;;CC;258;258;9490;2.27;417324
+MN;;;0105;U.S. Representative District 2;2;0102;Joe Teirab;;;R;258;258;175608;42.08;417324
+MN;;;0105;U.S. Representative District 2;2;0203;Angie Craig;;;DFL;258;258;231772;55.54;417324
+MN;;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;258;258;454;0.11;417324
 MN;;;0106;U.S. Representative District 3;3;0201;Kelly Morrison;;;DFL;230;230;240208;58.43;411137
 MN;;;0106;U.S. Representative District 3;3;0102;Tad Jude;;;R;230;230;170426;41.45;411137
 MN;;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;230;230;503;0.12;411137

@@ -242,9 +242,9 @@ MN;;;0267;State Representative District 40B;40B;9901;WRITE-IN;;;WI;12;12;63;0.26
 MN;;;0268;State Representative District 41A;41A;0101;Wayne A Johnson;;;R;17;17;15167;50.49;30039
 MN;;;0268;State Representative District 41A;41A;0202;Lucia Wroblewski;;;DFL;17;17;14840;49.40;30039
 MN;;;0268;State Representative District 41A;41A;9901;WRITE-IN;;;WI;17;17;32;0.11;30039
-MN;;;0269;State Representative District 41B;41B;0201;Jen Fox;;;DFL;15;15;12020;48.86;24600
-MN;;;0269;State Representative District 41B;41B;0102;Tom Dippel;;;R;15;15;12530;50.93;24600
-MN;;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;15;15;50;0.20;24600
+MN;;;0269;State Representative District 41B;41B;0201;Jen Fox;;;DFL;15;15;12019;48.86;24598
+MN;;;0269;State Representative District 41B;41B;0102;Tom Dippel;;;R;15;15;12529;50.94;24598
+MN;;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;15;15;50;0.20;24598
 MN;;;0270;State Representative District 42A;42A;0101;Kathy Burkett;;;R;10;10;10617;42.58;24936
 MN;;;0270;State Representative District 42A;42A;0202;Ned Carroll;;;DFL;10;10;14288;57.30;24936
 MN;;;0270;State Representative District 42A;42A;9901;WRITE-IN;;;WI;10;10;31;0.12;24936
